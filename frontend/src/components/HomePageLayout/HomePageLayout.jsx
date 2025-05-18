@@ -4,7 +4,7 @@ import {
   MenuUnfoldOutlined,
   FileOutlined,
   QuestionCircleOutlined,
-  TeamOutlined,
+  UserOutlined,
   InfoOutlined,
 } from "@ant-design/icons";
 import { Button, Layout, Menu, theme } from "antd";
@@ -73,7 +73,7 @@ const HomePageLayout = () => {
             },
             { key: "3", icon: <FileOutlined />, label: "Veri Seti" },
             { key: "4", icon: <InfoOutlined />, label: "Model Hakkında" },
-            { key: "5", icon: <TeamOutlined />, label: "Hazırlayan Hakkında" },
+            { key: "5", icon: <UserOutlined />, label: "Hazırlayan Hakkında" },
           ]}
         />
       </Sider>
