@@ -1,0 +1,1779 @@
+Intent,Cümle
+Greeting,"Merhaba, nasıl yardımcı olabilirim?"
+Greeting,Selam! Size ne konuda yardımcı olabilirim?
+Greeting,Günaydın! Sorunuz var mı?
+Greeting,İyi günler! Ne hakkında bilgi istiyorsunuz?
+Greeting,Hoş geldiniz! Size nasıl yardımcı olayım?
+Greeting,Selamünaleyküm! Nasıl yardımcı olabilirim?
+Greeting,Merhaba! Bugün ne hakkında konuşmak istersiniz?
+Goodbye,"Görüşmek üzere, iyi günler."
+Goodbye,Hoşça kalın!
+Goodbye,İyi günler dilerim.
+Goodbye,Seneye görüşmek üzere!
+Goodbye,"Hoşça kalın, tekrar bekleriz."
+Goodbye,"Teşekkürler, kendinize iyi bakın."
+Goodbye,"Alışveriş için teşekkürler, iyi günler."
+Fallback,"Üzgünüm, bunu anlayamadım."
+Fallback,Tekrar eder misiniz lütfen?
+Fallback,"Bunu anlayamadım, başka bir şekilde sorar mısınız?"
+Fallback,Maalesef bu soruya cevap veremiyorum.
+Fallback,"Üzgünüm, ne demek istediğinizi çözemedim."
+Fallback,Lütfen soruyu yeniden formüle eder misiniz?
+Fallback,"Anlayamadım, farklı bir ifade kullanabilir misiniz?"
+AddToCart,Sepete 1 adet kırmızı elbise ekle lütfen
+AddToCart,Sepete 2 adet kırmızı elbise ekle lütfen
+AddToCart,Sepete 3 adet kırmızı elbise ekle lütfen
+AddToCart,Sepete 4 adet kırmızı elbise ekle lütfen
+AddToCart,Sepete 5 adet kırmızı elbise ekle lütfen
+AddToCart,Sepete 6 adet kırmızı elbise ekle lütfen
+AddToCart,Sepete 7 adet kırmızı elbise ekle lütfen
+AddToCart,Sepete 8 adet kırmızı elbise ekle lütfen
+AddToCart,Sepete 1 adet mavi tişört ekle lütfen
+AddToCart,Sepete 2 adet mavi tişört ekle lütfen
+AddToCart,Sepete 3 adet mavi tişört ekle lütfen
+AddToCart,Sepete 4 adet mavi tişört ekle lütfen
+AddToCart,Sepete 5 adet mavi tişört ekle lütfen
+AddToCart,Sepete 6 adet mavi tişört ekle lütfen
+AddToCart,Sepete 7 adet mavi tişört ekle lütfen
+AddToCart,Sepete 8 adet mavi tişört ekle lütfen
+AddToCart,Sepete 1 adet siyah pantolon ekle lütfen
+AddToCart,Sepete 2 adet siyah pantolon ekle lütfen
+AddToCart,Sepete 3 adet siyah pantolon ekle lütfen
+AddToCart,Sepete 4 adet siyah pantolon ekle lütfen
+AddToCart,Sepete 5 adet siyah pantolon ekle lütfen
+AddToCart,Sepete 6 adet siyah pantolon ekle lütfen
+AddToCart,Sepete 7 adet siyah pantolon ekle lütfen
+AddToCart,Sepete 8 adet siyah pantolon ekle lütfen
+AddToCart,Sepete 1 adet beyaz gömlek ekle lütfen
+AddToCart,Sepete 2 adet beyaz gömlek ekle lütfen
+AddToCart,Sepete 3 adet beyaz gömlek ekle lütfen
+AddToCart,Sepete 4 adet beyaz gömlek ekle lütfen
+AddToCart,Sepete 5 adet beyaz gömlek ekle lütfen
+AddToCart,Sepete 6 adet beyaz gömlek ekle lütfen
+AddToCart,Sepete 7 adet beyaz gömlek ekle lütfen
+AddToCart,Sepete 8 adet beyaz gömlek ekle lütfen
+AddToCart,Sepete 1 adet yeşil mont ekle lütfen
+AddToCart,Sepete 2 adet yeşil mont ekle lütfen
+AddToCart,Sepete 3 adet yeşil mont ekle lütfen
+AddToCart,Sepete 4 adet yeşil mont ekle lütfen
+AddToCart,Sepete 5 adet yeşil mont ekle lütfen
+AddToCart,Sepete 6 adet yeşil mont ekle lütfen
+AddToCart,Sepete 7 adet yeşil mont ekle lütfen
+AddToCart,Sepete 8 adet yeşil mont ekle lütfen
+AddToCart,Sepete 1 adet kot şort ekle lütfen
+AddToCart,Sepete 2 adet kot şort ekle lütfen
+AddToCart,Sepete 3 adet kot şort ekle lütfen
+AddToCart,Sepete 4 adet kot şort ekle lütfen
+AddToCart,Sepete 5 adet kot şort ekle lütfen
+AddToCart,Sepete 6 adet kot şort ekle lütfen
+AddToCart,Sepete 7 adet kot şort ekle lütfen
+AddToCart,Sepete 8 adet kot şort ekle lütfen
+AddToCart,Sepete 1 adet sarı etek ekle lütfen
+AddToCart,Sepete 2 adet sarı etek ekle lütfen
+AddToCart,Sepete 3 adet sarı etek ekle lütfen
+AddToCart,Sepete 4 adet sarı etek ekle lütfen
+AddToCart,Sepete 5 adet sarı etek ekle lütfen
+AddToCart,Sepete 6 adet sarı etek ekle lütfen
+AddToCart,Sepete 7 adet sarı etek ekle lütfen
+AddToCart,Sepete 8 adet sarı etek ekle lütfen
+AddToCart,Sepete 1 adet kahverengi ceket ekle lütfen
+AddToCart,Sepete 2 adet kahverengi ceket ekle lütfen
+AddToCart,Sepete 3 adet kahverengi ceket ekle lütfen
+AddToCart,Sepete 4 adet kahverengi ceket ekle lütfen
+AddToCart,Sepete 5 adet kahverengi ceket ekle lütfen
+AddToCart,Sepete 6 adet kahverengi ceket ekle lütfen
+AddToCart,Sepete 7 adet kahverengi ceket ekle lütfen
+AddToCart,Sepete 8 adet kahverengi ceket ekle lütfen
+AddToCart,Sepete 1 adet bej kazak ekle lütfen
+AddToCart,Sepete 2 adet bej kazak ekle lütfen
+AddToCart,Sepete 3 adet bej kazak ekle lütfen
+AddToCart,Sepete 4 adet bej kazak ekle lütfen
+AddToCart,Sepete 5 adet bej kazak ekle lütfen
+AddToCart,Sepete 6 adet bej kazak ekle lütfen
+AddToCart,Sepete 7 adet bej kazak ekle lütfen
+AddToCart,Sepete 8 adet bej kazak ekle lütfen
+AddToCart,Sepete 1 adet desenli eşofman ekle lütfen
+AddToCart,Sepete 2 adet desenli eşofman ekle lütfen
+AddToCart,Sepete 3 adet desenli eşofman ekle lütfen
+AddToCart,Sepete 4 adet desenli eşofman ekle lütfen
+AddToCart,Sepete 5 adet desenli eşofman ekle lütfen
+AddToCart,Sepete 6 adet desenli eşofman ekle lütfen
+AddToCart,Sepete 7 adet desenli eşofman ekle lütfen
+AddToCart,Sepete 8 adet desenli eşofman ekle lütfen
+AddToCart,Sepete 1 adet pembe bluz ekle lütfen
+AddToCart,Sepete 2 adet pembe bluz ekle lütfen
+AddToCart,Sepete 3 adet pembe bluz ekle lütfen
+AddToCart,Sepete 4 adet pembe bluz ekle lütfen
+AddToCart,Sepete 5 adet pembe bluz ekle lütfen
+AddToCart,Sepete 6 adet pembe bluz ekle lütfen
+AddToCart,Sepete 7 adet pembe bluz ekle lütfen
+AddToCart,Sepete 8 adet pembe bluz ekle lütfen
+AddToCart,Sepete 1 adet gri kazak ekle lütfen
+AddToCart,Sepete 2 adet gri kazak ekle lütfen
+AddToCart,Sepete 3 adet gri kazak ekle lütfen
+AddToCart,Sepete 4 adet gri kazak ekle lütfen
+AddToCart,Sepete 5 adet gri kazak ekle lütfen
+AddToCart,Sepete 6 adet gri kazak ekle lütfen
+AddToCart,Sepete 7 adet gri kazak ekle lütfen
+AddToCart,Sepete 8 adet gri kazak ekle lütfen
+AddToCart,Sepete 1 adet turuncu sweatshirt ekle lütfen
+AddToCart,Sepete 2 adet turuncu sweatshirt ekle lütfen
+AddToCart,Sepete 3 adet turuncu sweatshirt ekle lütfen
+AddToCart,Sepete 4 adet turuncu sweatshirt ekle lütfen
+AddToCart,Sepete 5 adet turuncu sweatshirt ekle lütfen
+AddToCart,Sepete 6 adet turuncu sweatshirt ekle lütfen
+AddToCart,Sepete 7 adet turuncu sweatshirt ekle lütfen
+AddToCart,Sepete 8 adet turuncu sweatshirt ekle lütfen
+AddToCart,Sepete 1 adet lila etek ekle lütfen
+AddToCart,Sepete 2 adet lila etek ekle lütfen
+AddToCart,Sepete 3 adet lila etek ekle lütfen
+AddToCart,Sepete 4 adet lila etek ekle lütfen
+AddToCart,Sepete 5 adet lila etek ekle lütfen
+AddToCart,Sepete 6 adet lila etek ekle lütfen
+AddToCart,Sepete 7 adet lila etek ekle lütfen
+AddToCart,Sepete 8 adet lila etek ekle lütfen
+AddToCart,Sepete 1 adet siyah elbise ekle lütfen
+AddToCart,Sepete 2 adet siyah elbise ekle lütfen
+AddToCart,Sepete 3 adet siyah elbise ekle lütfen
+AddToCart,Sepete 4 adet siyah elbise ekle lütfen
+AddToCart,Sepete 5 adet siyah elbise ekle lütfen
+AddToCart,Sepete 6 adet siyah elbise ekle lütfen
+AddToCart,Sepete 7 adet siyah elbise ekle lütfen
+AddToCart,Sepete 8 adet siyah elbise ekle lütfen
+AddToCart,Sepete 1 adet beyaz tişört ekle lütfen
+AddToCart,Sepete 2 adet beyaz tişört ekle lütfen
+AddToCart,Sepete 3 adet beyaz tişört ekle lütfen
+AddToCart,Sepete 4 adet beyaz tişört ekle lütfen
+AddToCart,Sepete 5 adet beyaz tişört ekle lütfen
+AddToCart,Sepete 6 adet beyaz tişört ekle lütfen
+AddToCart,Sepete 7 adet beyaz tişört ekle lütfen
+AddToCart,Sepete 8 adet beyaz tişört ekle lütfen
+AddToCart,kırmızı elbise sepete ekle
+AddToCart,mavi tişört sepete ekle
+AddToCart,siyah pantolon sepete ekle
+AddToCart,beyaz gömlek sepete ekle
+AddToCart,yeşil mont sepete ekle
+AddToCart,kot şort sepete ekle
+AddToCart,sarı etek sepete ekle
+AddToCart,kahverengi ceket sepete ekle
+AddToCart,bej kazak sepete ekle
+AddToCart,desenli eşofman sepete ekle
+AddToCart,pembe bluz sepete ekle
+AddToCart,gri kazak sepete ekle
+AddToCart,turuncu sweatshirt sepete ekle
+AddToCart,lila etek sepete ekle
+AddToCart,siyah elbise sepete ekle
+AddToCart,beyaz tişört sepete ekle
+AddToCart,Sepete kırmızı elbise eklesene
+AddToCart,Sepete mavi tişört eklesene
+AddToCart,Sepete siyah pantolon eklesene
+AddToCart,Sepete beyaz gömlek eklesene
+AddToCart,Sepete yeşil mont eklesene
+AddToCart,Sepete kot şort eklesene
+AddToCart,Sepete sarı etek eklesene
+AddToCart,Sepete kahverengi ceket eklesene
+AddToCart,Sepete bej kazak eklesene
+AddToCart,Sepete desenli eşofman eklesene
+AddToCart,Sepete pembe bluz eklesene
+AddToCart,Sepete gri kazak eklesene
+AddToCart,Sepete turuncu sweatshirt eklesene
+AddToCart,Sepete lila etek eklesene
+AddToCart,Sepete siyah elbise eklesene
+AddToCart,Sepete beyaz tişört eklesene
+AddToCart,Bana 1 adet kırmızı elbise ekler misin?
+AddToCart,Bana 2 adet kırmızı elbise ekler misin?
+AddToCart,Bana 3 adet kırmızı elbise ekler misin?
+AddToCart,Bana 4 adet kırmızı elbise ekler misin?
+AddToCart,Bana 5 adet kırmızı elbise ekler misin?
+AddToCart,Bana 6 adet kırmızı elbise ekler misin?
+AddToCart,Bana 7 adet kırmızı elbise ekler misin?
+AddToCart,Bana 8 adet kırmızı elbise ekler misin?
+AddToCart,Bana 1 adet mavi tişört ekler misin?
+AddToCart,Bana 2 adet mavi tişört ekler misin?
+AddToCart,Bana 3 adet mavi tişört ekler misin?
+AddToCart,Bana 4 adet mavi tişört ekler misin?
+AddToCart,Bana 5 adet mavi tişört ekler misin?
+AddToCart,Bana 6 adet mavi tişört ekler misin?
+AddToCart,Bana 7 adet mavi tişört ekler misin?
+AddToCart,Bana 8 adet mavi tişört ekler misin?
+AddToCart,Bana 1 adet siyah pantolon ekler misin?
+AddToCart,Bana 2 adet siyah pantolon ekler misin?
+AddToCart,Bana 3 adet siyah pantolon ekler misin?
+AddToCart,Bana 4 adet siyah pantolon ekler misin?
+AddToCart,Bana 5 adet siyah pantolon ekler misin?
+AddToCart,Bana 6 adet siyah pantolon ekler misin?
+AddToCart,Bana 7 adet siyah pantolon ekler misin?
+AddToCart,Bana 8 adet siyah pantolon ekler misin?
+AddToCart,Bana 1 adet beyaz gömlek ekler misin?
+AddToCart,Bana 2 adet beyaz gömlek ekler misin?
+AddToCart,Bana 3 adet beyaz gömlek ekler misin?
+AddToCart,Bana 4 adet beyaz gömlek ekler misin?
+AddToCart,Bana 5 adet beyaz gömlek ekler misin?
+AddToCart,Bana 6 adet beyaz gömlek ekler misin?
+AddToCart,Bana 7 adet beyaz gömlek ekler misin?
+AddToCart,Bana 8 adet beyaz gömlek ekler misin?
+AddToCart,Bana 1 adet yeşil mont ekler misin?
+AddToCart,Bana 2 adet yeşil mont ekler misin?
+AddToCart,Bana 3 adet yeşil mont ekler misin?
+AddToCart,Bana 4 adet yeşil mont ekler misin?
+AddToCart,Bana 5 adet yeşil mont ekler misin?
+AddToCart,Bana 6 adet yeşil mont ekler misin?
+AddToCart,Bana 7 adet yeşil mont ekler misin?
+AddToCart,Bana 8 adet yeşil mont ekler misin?
+AddToCart,Bana 1 adet kot şort ekler misin?
+AddToCart,Bana 2 adet kot şort ekler misin?
+AddToCart,Bana 3 adet kot şort ekler misin?
+AddToCart,Bana 4 adet kot şort ekler misin?
+AddToCart,Bana 5 adet kot şort ekler misin?
+AddToCart,Bana 6 adet kot şort ekler misin?
+AddToCart,Bana 7 adet kot şort ekler misin?
+AddToCart,Bana 8 adet kot şort ekler misin?
+AddToCart,Bana 1 adet sarı etek ekler misin?
+AddToCart,Bana 2 adet sarı etek ekler misin?
+AddToCart,Bana 3 adet sarı etek ekler misin?
+AddToCart,Bana 4 adet sarı etek ekler misin?
+AddToCart,Bana 5 adet sarı etek ekler misin?
+AddToCart,Bana 6 adet sarı etek ekler misin?
+AddToCart,Bana 7 adet sarı etek ekler misin?
+AddToCart,Bana 8 adet sarı etek ekler misin?
+AddToCart,Bana 1 adet kahverengi ceket ekler misin?
+AddToCart,Bana 2 adet kahverengi ceket ekler misin?
+AddToCart,Bana 3 adet kahverengi ceket ekler misin?
+AddToCart,Bana 4 adet kahverengi ceket ekler misin?
+AddToCart,Bana 5 adet kahverengi ceket ekler misin?
+AddToCart,Bana 6 adet kahverengi ceket ekler misin?
+AddToCart,Bana 7 adet kahverengi ceket ekler misin?
+AddToCart,Bana 8 adet kahverengi ceket ekler misin?
+AddToCart,Bana 1 adet bej kazak ekler misin?
+AddToCart,Bana 2 adet bej kazak ekler misin?
+AddToCart,Bana 3 adet bej kazak ekler misin?
+AddToCart,Bana 4 adet bej kazak ekler misin?
+AddToCart,Bana 5 adet bej kazak ekler misin?
+AddToCart,Bana 6 adet bej kazak ekler misin?
+AddToCart,Bana 7 adet bej kazak ekler misin?
+AddToCart,Bana 8 adet bej kazak ekler misin?
+AddToCart,Bana 1 adet desenli eşofman ekler misin?
+AddToCart,Bana 2 adet desenli eşofman ekler misin?
+AddToCart,Bana 3 adet desenli eşofman ekler misin?
+AddToCart,Bana 4 adet desenli eşofman ekler misin?
+AddToCart,Bana 5 adet desenli eşofman ekler misin?
+AddToCart,Bana 6 adet desenli eşofman ekler misin?
+AddToCart,Bana 7 adet desenli eşofman ekler misin?
+AddToCart,Bana 8 adet desenli eşofman ekler misin?
+AddToCart,Bana 1 adet pembe bluz ekler misin?
+AddToCart,Bana 2 adet pembe bluz ekler misin?
+AddToCart,Bana 3 adet pembe bluz ekler misin?
+AddToCart,Bana 4 adet pembe bluz ekler misin?
+AddToCart,Bana 5 adet pembe bluz ekler misin?
+AddToCart,Bana 6 adet pembe bluz ekler misin?
+AddToCart,Bana 7 adet pembe bluz ekler misin?
+AddToCart,Bana 8 adet pembe bluz ekler misin?
+AddToCart,Bana 1 adet gri kazak ekler misin?
+AddToCart,Bana 2 adet gri kazak ekler misin?
+AddToCart,Bana 3 adet gri kazak ekler misin?
+AddToCart,Bana 4 adet gri kazak ekler misin?
+AddToCart,Bana 5 adet gri kazak ekler misin?
+AddToCart,Bana 6 adet gri kazak ekler misin?
+AddToCart,Bana 7 adet gri kazak ekler misin?
+AddToCart,Bana 8 adet gri kazak ekler misin?
+AddToCart,Bana 1 adet turuncu sweatshirt ekler misin?
+AddToCart,Bana 2 adet turuncu sweatshirt ekler misin?
+AddToCart,Bana 3 adet turuncu sweatshirt ekler misin?
+AddToCart,Bana 4 adet turuncu sweatshirt ekler misin?
+AddToCart,Bana 5 adet turuncu sweatshirt ekler misin?
+AddToCart,Bana 6 adet turuncu sweatshirt ekler misin?
+AddToCart,Bana 7 adet turuncu sweatshirt ekler misin?
+AddToCart,Bana 8 adet turuncu sweatshirt ekler misin?
+AddToCart,Bana 1 adet lila etek ekler misin?
+AddToCart,Bana 2 adet lila etek ekler misin?
+AddToCart,Bana 3 adet lila etek ekler misin?
+AddToCart,Bana 4 adet lila etek ekler misin?
+AddToCart,Bana 5 adet lila etek ekler misin?
+AddToCart,Bana 6 adet lila etek ekler misin?
+AddToCart,Bana 7 adet lila etek ekler misin?
+AddToCart,Bana 8 adet lila etek ekler misin?
+AddToCart,Bana 1 adet siyah elbise ekler misin?
+AddToCart,Bana 2 adet siyah elbise ekler misin?
+AddToCart,Bana 3 adet siyah elbise ekler misin?
+AddToCart,Bana 4 adet siyah elbise ekler misin?
+AddToCart,Bana 5 adet siyah elbise ekler misin?
+AddToCart,Bana 6 adet siyah elbise ekler misin?
+AddToCart,Bana 7 adet siyah elbise ekler misin?
+AddToCart,Bana 8 adet siyah elbise ekler misin?
+AddToCart,Bana 1 adet beyaz tişört ekler misin?
+AddToCart,Bana 2 adet beyaz tişört ekler misin?
+AddToCart,Bana 3 adet beyaz tişört ekler misin?
+AddToCart,Bana 4 adet beyaz tişört ekler misin?
+AddToCart,Bana 5 adet beyaz tişört ekler misin?
+AddToCart,Bana 6 adet beyaz tişört ekler misin?
+AddToCart,Bana 7 adet beyaz tişört ekler misin?
+AddToCart,Bana 8 adet beyaz tişört ekler misin?
+AddToCart,1 adet kırmızı elbise siparişe ekle
+AddToCart,2 adet kırmızı elbise siparişe ekle
+AddToCart,3 adet kırmızı elbise siparişe ekle
+AddToCart,4 adet kırmızı elbise siparişe ekle
+AddToCart,5 adet kırmızı elbise siparişe ekle
+AddToCart,6 adet kırmızı elbise siparişe ekle
+AddToCart,7 adet kırmızı elbise siparişe ekle
+AddToCart,8 adet kırmızı elbise siparişe ekle
+AddToCart,1 adet mavi tişört siparişe ekle
+AddToCart,2 adet mavi tişört siparişe ekle
+AddToCart,3 adet mavi tişört siparişe ekle
+AddToCart,4 adet mavi tişört siparişe ekle
+AddToCart,5 adet mavi tişört siparişe ekle
+AddToCart,6 adet mavi tişört siparişe ekle
+AddToCart,7 adet mavi tişört siparişe ekle
+AddToCart,8 adet mavi tişört siparişe ekle
+AddToCart,1 adet siyah pantolon siparişe ekle
+AddToCart,2 adet siyah pantolon siparişe ekle
+AddToCart,3 adet siyah pantolon siparişe ekle
+AddToCart,4 adet siyah pantolon siparişe ekle
+AddToCart,5 adet siyah pantolon siparişe ekle
+AddToCart,6 adet siyah pantolon siparişe ekle
+AddToCart,7 adet siyah pantolon siparişe ekle
+AddToCart,8 adet siyah pantolon siparişe ekle
+AddToCart,1 adet beyaz gömlek siparişe ekle
+AddToCart,2 adet beyaz gömlek siparişe ekle
+AddToCart,3 adet beyaz gömlek siparişe ekle
+AddToCart,4 adet beyaz gömlek siparişe ekle
+AddToCart,5 adet beyaz gömlek siparişe ekle
+AddToCart,6 adet beyaz gömlek siparişe ekle
+AddToCart,7 adet beyaz gömlek siparişe ekle
+AddToCart,8 adet beyaz gömlek siparişe ekle
+AddToCart,1 adet yeşil mont siparişe ekle
+AddToCart,2 adet yeşil mont siparişe ekle
+AddToCart,3 adet yeşil mont siparişe ekle
+AddToCart,4 adet yeşil mont siparişe ekle
+AddToCart,5 adet yeşil mont siparişe ekle
+AddToCart,6 adet yeşil mont siparişe ekle
+AddToCart,7 adet yeşil mont siparişe ekle
+AddToCart,8 adet yeşil mont siparişe ekle
+AddToCart,1 adet kot şort siparişe ekle
+AddToCart,2 adet kot şort siparişe ekle
+AddToCart,3 adet kot şort siparişe ekle
+AddToCart,4 adet kot şort siparişe ekle
+AddToCart,5 adet kot şort siparişe ekle
+AddToCart,6 adet kot şort siparişe ekle
+AddToCart,7 adet kot şort siparişe ekle
+AddToCart,8 adet kot şort siparişe ekle
+AddToCart,1 adet sarı etek siparişe ekle
+AddToCart,2 adet sarı etek siparişe ekle
+AddToCart,3 adet sarı etek siparişe ekle
+AddToCart,4 adet sarı etek siparişe ekle
+AddToCart,5 adet sarı etek siparişe ekle
+AddToCart,6 adet sarı etek siparişe ekle
+AddToCart,7 adet sarı etek siparişe ekle
+AddToCart,8 adet sarı etek siparişe ekle
+AddToCart,1 adet kahverengi ceket siparişe ekle
+AddToCart,2 adet kahverengi ceket siparişe ekle
+AddToCart,3 adet kahverengi ceket siparişe ekle
+AddToCart,4 adet kahverengi ceket siparişe ekle
+AddToCart,5 adet kahverengi ceket siparişe ekle
+AddToCart,6 adet kahverengi ceket siparişe ekle
+AddToCart,7 adet kahverengi ceket siparişe ekle
+AddToCart,8 adet kahverengi ceket siparişe ekle
+AddToCart,1 adet bej kazak siparişe ekle
+AddToCart,2 adet bej kazak siparişe ekle
+AddToCart,3 adet bej kazak siparişe ekle
+AddToCart,4 adet bej kazak siparişe ekle
+AddToCart,5 adet bej kazak siparişe ekle
+AddToCart,6 adet bej kazak siparişe ekle
+AddToCart,7 adet bej kazak siparişe ekle
+AddToCart,8 adet bej kazak siparişe ekle
+AddToCart,1 adet desenli eşofman siparişe ekle
+AddToCart,2 adet desenli eşofman siparişe ekle
+AddToCart,3 adet desenli eşofman siparişe ekle
+AddToCart,4 adet desenli eşofman siparişe ekle
+AddToCart,5 adet desenli eşofman siparişe ekle
+AddToCart,6 adet desenli eşofman siparişe ekle
+AddToCart,7 adet desenli eşofman siparişe ekle
+AddToCart,8 adet desenli eşofman siparişe ekle
+AddToCart,1 adet pembe bluz siparişe ekle
+AddToCart,2 adet pembe bluz siparişe ekle
+AddToCart,3 adet pembe bluz siparişe ekle
+AddToCart,4 adet pembe bluz siparişe ekle
+AddToCart,5 adet pembe bluz siparişe ekle
+AddToCart,6 adet pembe bluz siparişe ekle
+AddToCart,7 adet pembe bluz siparişe ekle
+AddToCart,8 adet pembe bluz siparişe ekle
+AddToCart,1 adet gri kazak siparişe ekle
+AddToCart,2 adet gri kazak siparişe ekle
+AddToCart,3 adet gri kazak siparişe ekle
+AddToCart,4 adet gri kazak siparişe ekle
+AddToCart,5 adet gri kazak siparişe ekle
+AddToCart,6 adet gri kazak siparişe ekle
+AddToCart,7 adet gri kazak siparişe ekle
+AddToCart,8 adet gri kazak siparişe ekle
+AddToCart,1 adet turuncu sweatshirt siparişe ekle
+AddToCart,2 adet turuncu sweatshirt siparişe ekle
+AddToCart,3 adet turuncu sweatshirt siparişe ekle
+AddToCart,4 adet turuncu sweatshirt siparişe ekle
+AddToCart,5 adet turuncu sweatshirt siparişe ekle
+AddToCart,6 adet turuncu sweatshirt siparişe ekle
+AddToCart,7 adet turuncu sweatshirt siparişe ekle
+AddToCart,8 adet turuncu sweatshirt siparişe ekle
+AddToCart,1 adet lila etek siparişe ekle
+AddToCart,2 adet lila etek siparişe ekle
+AddToCart,3 adet lila etek siparişe ekle
+AddToCart,4 adet lila etek siparişe ekle
+AddToCart,5 adet lila etek siparişe ekle
+AddToCart,6 adet lila etek siparişe ekle
+AddToCart,7 adet lila etek siparişe ekle
+AddToCart,8 adet lila etek siparişe ekle
+AddToCart,1 adet siyah elbise siparişe ekle
+AddToCart,2 adet siyah elbise siparişe ekle
+AddToCart,3 adet siyah elbise siparişe ekle
+AddToCart,4 adet siyah elbise siparişe ekle
+AddToCart,5 adet siyah elbise siparişe ekle
+AddToCart,6 adet siyah elbise siparişe ekle
+AddToCart,7 adet siyah elbise siparişe ekle
+AddToCart,8 adet siyah elbise siparişe ekle
+AddToCart,1 adet beyaz tişört siparişe ekle
+AddToCart,2 adet beyaz tişört siparişe ekle
+AddToCart,3 adet beyaz tişört siparişe ekle
+AddToCart,4 adet beyaz tişört siparişe ekle
+AddToCart,5 adet beyaz tişört siparişe ekle
+AddToCart,6 adet beyaz tişört siparişe ekle
+AddToCart,7 adet beyaz tişört siparişe ekle
+AddToCart,8 adet beyaz tişört siparişe ekle
+AddToCart,Sepetime 1 adet kırmızı elbise koy
+AddToCart,Sepetime 2 adet kırmızı elbise koy
+AddToCart,Sepetime 3 adet kırmızı elbise koy
+AddToCart,Sepetime 4 adet kırmızı elbise koy
+AddToCart,Sepetime 5 adet kırmızı elbise koy
+AddToCart,Sepetime 6 adet kırmızı elbise koy
+AddToCart,Sepetime 7 adet kırmızı elbise koy
+AddToCart,Sepetime 8 adet kırmızı elbise koy
+AddToCart,Sepetime 1 adet mavi tişört koy
+AddToCart,Sepetime 2 adet mavi tişört koy
+AddToCart,Sepetime 3 adet mavi tişört koy
+AddToCart,Sepetime 4 adet mavi tişört koy
+AddToCart,Sepetime 5 adet mavi tişört koy
+AddToCart,Sepetime 6 adet mavi tişört koy
+AddToCart,Sepetime 7 adet mavi tişört koy
+AddToCart,Sepetime 8 adet mavi tişört koy
+AddToCart,Sepetime 1 adet siyah pantolon koy
+AddToCart,Sepetime 2 adet siyah pantolon koy
+AddToCart,Sepetime 3 adet siyah pantolon koy
+AddToCart,Sepetime 4 adet siyah pantolon koy
+AddToCart,Sepetime 5 adet siyah pantolon koy
+AddToCart,Sepetime 6 adet siyah pantolon koy
+AddToCart,Sepetime 7 adet siyah pantolon koy
+AddToCart,Sepetime 8 adet siyah pantolon koy
+AddToCart,Sepetime 1 adet beyaz gömlek koy
+AddToCart,Sepetime 2 adet beyaz gömlek koy
+AddToCart,Sepetime 3 adet beyaz gömlek koy
+AddToCart,Sepetime 4 adet beyaz gömlek koy
+AddToCart,Sepetime 5 adet beyaz gömlek koy
+AddToCart,Sepetime 6 adet beyaz gömlek koy
+AddToCart,Sepetime 7 adet beyaz gömlek koy
+AddToCart,Sepetime 8 adet beyaz gömlek koy
+AddToCart,Sepetime 1 adet yeşil mont koy
+AddToCart,Sepetime 2 adet yeşil mont koy
+AddToCart,Sepetime 3 adet yeşil mont koy
+AddToCart,Sepetime 4 adet yeşil mont koy
+AddToCart,Sepetime 5 adet yeşil mont koy
+AddToCart,Sepetime 6 adet yeşil mont koy
+AddToCart,Sepetime 7 adet yeşil mont koy
+AddToCart,Sepetime 8 adet yeşil mont koy
+AddToCart,Sepetime 1 adet kot şort koy
+AddToCart,Sepetime 2 adet kot şort koy
+AddToCart,Sepetime 3 adet kot şort koy
+AddToCart,Sepetime 4 adet kot şort koy
+AddToCart,Sepetime 5 adet kot şort koy
+AddToCart,Sepetime 6 adet kot şort koy
+AddToCart,Sepetime 7 adet kot şort koy
+AddToCart,Sepetime 8 adet kot şort koy
+AddToCart,Sepetime 1 adet sarı etek koy
+AddToCart,Sepetime 2 adet sarı etek koy
+AddToCart,Sepetime 3 adet sarı etek koy
+AddToCart,Sepetime 4 adet sarı etek koy
+AddToCart,Sepetime 5 adet sarı etek koy
+AddToCart,Sepetime 6 adet sarı etek koy
+AddToCart,Sepetime 7 adet sarı etek koy
+AddToCart,Sepetime 8 adet sarı etek koy
+AddToCart,Sepetime 1 adet kahverengi ceket koy
+AddToCart,Sepetime 2 adet kahverengi ceket koy
+AddToCart,Sepetime 3 adet kahverengi ceket koy
+AddToCart,Sepetime 4 adet kahverengi ceket koy
+AddToCart,Sepetime 5 adet kahverengi ceket koy
+AddToCart,Sepetime 6 adet kahverengi ceket koy
+AddToCart,Sepetime 7 adet kahverengi ceket koy
+AddToCart,Sepetime 8 adet kahverengi ceket koy
+AddToCart,Sepetime 1 adet bej kazak koy
+AddToCart,Sepetime 2 adet bej kazak koy
+AddToCart,Sepetime 3 adet bej kazak koy
+AddToCart,Sepetime 4 adet bej kazak koy
+AddToCart,Sepetime 5 adet bej kazak koy
+AddToCart,Sepetime 6 adet bej kazak koy
+AddToCart,Sepetime 7 adet bej kazak koy
+AddToCart,Sepetime 8 adet bej kazak koy
+AddToCart,Sepetime 1 adet desenli eşofman koy
+AddToCart,Sepetime 2 adet desenli eşofman koy
+AddToCart,Sepetime 3 adet desenli eşofman koy
+AddToCart,Sepetime 4 adet desenli eşofman koy
+AddToCart,Sepetime 5 adet desenli eşofman koy
+AddToCart,Sepetime 6 adet desenli eşofman koy
+AddToCart,Sepetime 7 adet desenli eşofman koy
+AddToCart,Sepetime 8 adet desenli eşofman koy
+AddToCart,Sepetime 1 adet pembe bluz koy
+AddToCart,Sepetime 2 adet pembe bluz koy
+AddToCart,Sepetime 3 adet pembe bluz koy
+AddToCart,Sepetime 4 adet pembe bluz koy
+AddToCart,Sepetime 5 adet pembe bluz koy
+AddToCart,Sepetime 6 adet pembe bluz koy
+AddToCart,Sepetime 7 adet pembe bluz koy
+AddToCart,Sepetime 8 adet pembe bluz koy
+AddToCart,Sepetime 1 adet gri kazak koy
+AddToCart,Sepetime 2 adet gri kazak koy
+AddToCart,Sepetime 3 adet gri kazak koy
+AddToCart,Sepetime 4 adet gri kazak koy
+AddToCart,Sepetime 5 adet gri kazak koy
+AddToCart,Sepetime 6 adet gri kazak koy
+AddToCart,Sepetime 7 adet gri kazak koy
+AddToCart,Sepetime 8 adet gri kazak koy
+AddToCart,Sepetime 1 adet turuncu sweatshirt koy
+AddToCart,Sepetime 2 adet turuncu sweatshirt koy
+AddToCart,Sepetime 3 adet turuncu sweatshirt koy
+AddToCart,Sepetime 4 adet turuncu sweatshirt koy
+AddToCart,Sepetime 5 adet turuncu sweatshirt koy
+AddToCart,Sepetime 6 adet turuncu sweatshirt koy
+AddToCart,Sepetime 7 adet turuncu sweatshirt koy
+AddToCart,Sepetime 8 adet turuncu sweatshirt koy
+AddToCart,Sepetime 1 adet lila etek koy
+AddToCart,Sepetime 2 adet lila etek koy
+AddToCart,Sepetime 3 adet lila etek koy
+AddToCart,Sepetime 4 adet lila etek koy
+AddToCart,Sepetime 5 adet lila etek koy
+AddToCart,Sepetime 6 adet lila etek koy
+AddToCart,Sepetime 7 adet lila etek koy
+AddToCart,Sepetime 8 adet lila etek koy
+AddToCart,Sepetime 1 adet siyah elbise koy
+AddToCart,Sepetime 2 adet siyah elbise koy
+AddToCart,Sepetime 3 adet siyah elbise koy
+AddToCart,Sepetime 4 adet siyah elbise koy
+AddToCart,Sepetime 5 adet siyah elbise koy
+AddToCart,Sepetime 6 adet siyah elbise koy
+AddToCart,Sepetime 7 adet siyah elbise koy
+AddToCart,Sepetime 8 adet siyah elbise koy
+AddToCart,Sepetime 1 adet beyaz tişört koy
+AddToCart,Sepetime 2 adet beyaz tişört koy
+AddToCart,Sepetime 3 adet beyaz tişört koy
+AddToCart,Sepetime 4 adet beyaz tişört koy
+AddToCart,Sepetime 5 adet beyaz tişört koy
+AddToCart,Sepetime 6 adet beyaz tişört koy
+AddToCart,Sepetime 7 adet beyaz tişört koy
+AddToCart,Sepetime 8 adet beyaz tişört koy
+AddToCart,Lütfen kırmızı elbise’i sepete 1 adet olarak ekle
+AddToCart,Lütfen kırmızı elbise’i sepete 2 adet olarak ekle
+AddToCart,Lütfen kırmızı elbise’i sepete 3 adet olarak ekle
+AddToCart,Lütfen kırmızı elbise’i sepete 4 adet olarak ekle
+AddToCart,Lütfen kırmızı elbise’i sepete 5 adet olarak ekle
+AddToCart,Lütfen kırmızı elbise’i sepete 6 adet olarak ekle
+AddToCart,Lütfen kırmızı elbise’i sepete 7 adet olarak ekle
+AddToCart,Lütfen kırmızı elbise’i sepete 8 adet olarak ekle
+AddToCart,Lütfen mavi tişört’i sepete 1 adet olarak ekle
+AddToCart,Lütfen mavi tişört’i sepete 2 adet olarak ekle
+AddToCart,Lütfen mavi tişört’i sepete 3 adet olarak ekle
+AddToCart,Lütfen mavi tişört’i sepete 4 adet olarak ekle
+AddToCart,Lütfen mavi tişört’i sepete 5 adet olarak ekle
+AddToCart,Lütfen mavi tişört’i sepete 6 adet olarak ekle
+AddToCart,Lütfen mavi tişört’i sepete 7 adet olarak ekle
+AddToCart,Lütfen mavi tişört’i sepete 8 adet olarak ekle
+AddToCart,Lütfen siyah pantolon’i sepete 1 adet olarak ekle
+AddToCart,Lütfen siyah pantolon’i sepete 2 adet olarak ekle
+AddToCart,Lütfen siyah pantolon’i sepete 3 adet olarak ekle
+AddToCart,Lütfen siyah pantolon’i sepete 4 adet olarak ekle
+AddToCart,Lütfen siyah pantolon’i sepete 5 adet olarak ekle
+AddToCart,Lütfen siyah pantolon’i sepete 6 adet olarak ekle
+AddToCart,Lütfen siyah pantolon’i sepete 7 adet olarak ekle
+AddToCart,Lütfen siyah pantolon’i sepete 8 adet olarak ekle
+AddToCart,Lütfen beyaz gömlek’i sepete 1 adet olarak ekle
+AddToCart,Lütfen beyaz gömlek’i sepete 2 adet olarak ekle
+AddToCart,Lütfen beyaz gömlek’i sepete 3 adet olarak ekle
+AddToCart,Lütfen beyaz gömlek’i sepete 4 adet olarak ekle
+AddToCart,Lütfen beyaz gömlek’i sepete 5 adet olarak ekle
+AddToCart,Lütfen beyaz gömlek’i sepete 6 adet olarak ekle
+AddToCart,Lütfen beyaz gömlek’i sepete 7 adet olarak ekle
+AddToCart,Lütfen beyaz gömlek’i sepete 8 adet olarak ekle
+AddToCart,Lütfen yeşil mont’i sepete 1 adet olarak ekle
+AddToCart,Lütfen yeşil mont’i sepete 2 adet olarak ekle
+AddToCart,Lütfen yeşil mont’i sepete 3 adet olarak ekle
+AddToCart,Lütfen yeşil mont’i sepete 4 adet olarak ekle
+AddToCart,Lütfen yeşil mont’i sepete 5 adet olarak ekle
+AddToCart,Lütfen yeşil mont’i sepete 6 adet olarak ekle
+AddToCart,Lütfen yeşil mont’i sepete 7 adet olarak ekle
+AddToCart,Lütfen yeşil mont’i sepete 8 adet olarak ekle
+AddToCart,Lütfen kot şort’i sepete 1 adet olarak ekle
+AddToCart,Lütfen kot şort’i sepete 2 adet olarak ekle
+AddToCart,Lütfen kot şort’i sepete 3 adet olarak ekle
+AddToCart,Lütfen kot şort’i sepete 4 adet olarak ekle
+AddToCart,Lütfen kot şort’i sepete 5 adet olarak ekle
+AddToCart,Lütfen kot şort’i sepete 6 adet olarak ekle
+AddToCart,Lütfen kot şort’i sepete 7 adet olarak ekle
+AddToCart,Lütfen kot şort’i sepete 8 adet olarak ekle
+AddToCart,Lütfen sarı etek’i sepete 1 adet olarak ekle
+AddToCart,Lütfen sarı etek’i sepete 2 adet olarak ekle
+AddToCart,Lütfen sarı etek’i sepete 3 adet olarak ekle
+AddToCart,Lütfen sarı etek’i sepete 4 adet olarak ekle
+AddToCart,Lütfen sarı etek’i sepete 5 adet olarak ekle
+AddToCart,Lütfen sarı etek’i sepete 6 adet olarak ekle
+AddToCart,Lütfen sarı etek’i sepete 7 adet olarak ekle
+AddToCart,Lütfen sarı etek’i sepete 8 adet olarak ekle
+AddToCart,Lütfen kahverengi ceket’i sepete 1 adet olarak ekle
+AddToCart,Lütfen kahverengi ceket’i sepete 2 adet olarak ekle
+AddToCart,Lütfen kahverengi ceket’i sepete 3 adet olarak ekle
+AddToCart,Lütfen kahverengi ceket’i sepete 4 adet olarak ekle
+AddToCart,Lütfen kahverengi ceket’i sepete 5 adet olarak ekle
+AddToCart,Lütfen kahverengi ceket’i sepete 6 adet olarak ekle
+AddToCart,Lütfen kahverengi ceket’i sepete 7 adet olarak ekle
+AddToCart,Lütfen kahverengi ceket’i sepete 8 adet olarak ekle
+AddToCart,Lütfen bej kazak’i sepete 1 adet olarak ekle
+AddToCart,Lütfen bej kazak’i sepete 2 adet olarak ekle
+AddToCart,Lütfen bej kazak’i sepete 3 adet olarak ekle
+AddToCart,Lütfen bej kazak’i sepete 4 adet olarak ekle
+AddToCart,Lütfen bej kazak’i sepete 5 adet olarak ekle
+AddToCart,Lütfen bej kazak’i sepete 6 adet olarak ekle
+AddToCart,Lütfen bej kazak’i sepete 7 adet olarak ekle
+AddToCart,Lütfen bej kazak’i sepete 8 adet olarak ekle
+AddToCart,Lütfen desenli eşofman’i sepete 1 adet olarak ekle
+AddToCart,Lütfen desenli eşofman’i sepete 2 adet olarak ekle
+AddToCart,Lütfen desenli eşofman’i sepete 3 adet olarak ekle
+AddToCart,Lütfen desenli eşofman’i sepete 4 adet olarak ekle
+AddToCart,Lütfen desenli eşofman’i sepete 5 adet olarak ekle
+AddToCart,Lütfen desenli eşofman’i sepete 6 adet olarak ekle
+AddToCart,Lütfen desenli eşofman’i sepete 7 adet olarak ekle
+AddToCart,Lütfen desenli eşofman’i sepete 8 adet olarak ekle
+AddToCart,Lütfen pembe bluz’i sepete 1 adet olarak ekle
+AddToCart,Lütfen pembe bluz’i sepete 2 adet olarak ekle
+AddToCart,Lütfen pembe bluz’i sepete 3 adet olarak ekle
+AddToCart,Lütfen pembe bluz’i sepete 4 adet olarak ekle
+AddToCart,Lütfen pembe bluz’i sepete 5 adet olarak ekle
+AddToCart,Lütfen pembe bluz’i sepete 6 adet olarak ekle
+AddToCart,Lütfen pembe bluz’i sepete 7 adet olarak ekle
+AddToCart,Lütfen pembe bluz’i sepete 8 adet olarak ekle
+AddToCart,Lütfen gri kazak’i sepete 1 adet olarak ekle
+AddToCart,Lütfen gri kazak’i sepete 2 adet olarak ekle
+AddToCart,Lütfen gri kazak’i sepete 3 adet olarak ekle
+AddToCart,Lütfen gri kazak’i sepete 4 adet olarak ekle
+AddToCart,Lütfen gri kazak’i sepete 5 adet olarak ekle
+AddToCart,Lütfen gri kazak’i sepete 6 adet olarak ekle
+AddToCart,Lütfen gri kazak’i sepete 7 adet olarak ekle
+AddToCart,Lütfen gri kazak’i sepete 8 adet olarak ekle
+AddToCart,Lütfen turuncu sweatshirt’i sepete 1 adet olarak ekle
+AddToCart,Lütfen turuncu sweatshirt’i sepete 2 adet olarak ekle
+AddToCart,Lütfen turuncu sweatshirt’i sepete 3 adet olarak ekle
+AddToCart,Lütfen turuncu sweatshirt’i sepete 4 adet olarak ekle
+AddToCart,Lütfen turuncu sweatshirt’i sepete 5 adet olarak ekle
+AddToCart,Lütfen turuncu sweatshirt’i sepete 6 adet olarak ekle
+AddToCart,Lütfen turuncu sweatshirt’i sepete 7 adet olarak ekle
+AddToCart,Lütfen turuncu sweatshirt’i sepete 8 adet olarak ekle
+AddToCart,Lütfen lila etek’i sepete 1 adet olarak ekle
+AddToCart,Lütfen lila etek’i sepete 2 adet olarak ekle
+AddToCart,Lütfen lila etek’i sepete 3 adet olarak ekle
+AddToCart,Lütfen lila etek’i sepete 4 adet olarak ekle
+AddToCart,Lütfen lila etek’i sepete 5 adet olarak ekle
+AddToCart,Lütfen lila etek’i sepete 6 adet olarak ekle
+AddToCart,Lütfen lila etek’i sepete 7 adet olarak ekle
+AddToCart,Lütfen lila etek’i sepete 8 adet olarak ekle
+AddToCart,Lütfen siyah elbise’i sepete 1 adet olarak ekle
+AddToCart,Lütfen siyah elbise’i sepete 2 adet olarak ekle
+AddToCart,Lütfen siyah elbise’i sepete 3 adet olarak ekle
+AddToCart,Lütfen siyah elbise’i sepete 4 adet olarak ekle
+AddToCart,Lütfen siyah elbise’i sepete 5 adet olarak ekle
+AddToCart,Lütfen siyah elbise’i sepete 6 adet olarak ekle
+AddToCart,Lütfen siyah elbise’i sepete 7 adet olarak ekle
+AddToCart,Lütfen siyah elbise’i sepete 8 adet olarak ekle
+AddToCart,Lütfen beyaz tişört’i sepete 1 adet olarak ekle
+AddToCart,Lütfen beyaz tişört’i sepete 2 adet olarak ekle
+AddToCart,Lütfen beyaz tişört’i sepete 3 adet olarak ekle
+AddToCart,Lütfen beyaz tişört’i sepete 4 adet olarak ekle
+AddToCart,Lütfen beyaz tişört’i sepete 5 adet olarak ekle
+AddToCart,Lütfen beyaz tişört’i sepete 6 adet olarak ekle
+AddToCart,Lütfen beyaz tişört’i sepete 7 adet olarak ekle
+AddToCart,Lütfen beyaz tişört’i sepete 8 adet olarak ekle
+RemoveFromCart,kırmızı elbise sepetten çıkar
+RemoveFromCart,mavi tişört sepetten çıkar
+RemoveFromCart,siyah pantolon sepetten çıkar
+RemoveFromCart,beyaz gömlek sepetten çıkar
+RemoveFromCart,yeşil mont sepetten çıkar
+RemoveFromCart,kot şort sepetten çıkar
+RemoveFromCart,sarı etek sepetten çıkar
+RemoveFromCart,kahverengi ceket sepetten çıkar
+RemoveFromCart,bej kazak sepetten çıkar
+RemoveFromCart,desenli eşofman sepetten çıkar
+RemoveFromCart,pembe bluz sepetten çıkar
+RemoveFromCart,gri kazak sepetten çıkar
+RemoveFromCart,turuncu sweatshirt sepetten çıkar
+RemoveFromCart,lila etek sepetten çıkar
+RemoveFromCart,siyah elbise sepetten çıkar
+RemoveFromCart,beyaz tişört sepetten çıkar
+RemoveFromCart,Sepetten kırmızı elbise sil
+RemoveFromCart,Sepetten mavi tişört sil
+RemoveFromCart,Sepetten siyah pantolon sil
+RemoveFromCart,Sepetten beyaz gömlek sil
+RemoveFromCart,Sepetten yeşil mont sil
+RemoveFromCart,Sepetten kot şort sil
+RemoveFromCart,Sepetten sarı etek sil
+RemoveFromCart,Sepetten kahverengi ceket sil
+RemoveFromCart,Sepetten bej kazak sil
+RemoveFromCart,Sepetten desenli eşofman sil
+RemoveFromCart,Sepetten pembe bluz sil
+RemoveFromCart,Sepetten gri kazak sil
+RemoveFromCart,Sepetten turuncu sweatshirt sil
+RemoveFromCart,Sepetten lila etek sil
+RemoveFromCart,Sepetten siyah elbise sil
+RemoveFromCart,Sepetten beyaz tişört sil
+RemoveFromCart,Sepetimden kırmızı elbise kaldırıver
+RemoveFromCart,Sepetimden mavi tişört kaldırıver
+RemoveFromCart,Sepetimden siyah pantolon kaldırıver
+RemoveFromCart,Sepetimden beyaz gömlek kaldırıver
+RemoveFromCart,Sepetimden yeşil mont kaldırıver
+RemoveFromCart,Sepetimden kot şort kaldırıver
+RemoveFromCart,Sepetimden sarı etek kaldırıver
+RemoveFromCart,Sepetimden kahverengi ceket kaldırıver
+RemoveFromCart,Sepetimden bej kazak kaldırıver
+RemoveFromCart,Sepetimden desenli eşofman kaldırıver
+RemoveFromCart,Sepetimden pembe bluz kaldırıver
+RemoveFromCart,Sepetimden gri kazak kaldırıver
+RemoveFromCart,Sepetimden turuncu sweatshirt kaldırıver
+RemoveFromCart,Sepetimden lila etek kaldırıver
+RemoveFromCart,Sepetimden siyah elbise kaldırıver
+RemoveFromCart,Sepetimden beyaz tişört kaldırıver
+RemoveFromCart,Sepetimdeki kırmızı elbise’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki mavi tişört’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki siyah pantolon’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki beyaz gömlek’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki yeşil mont’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki kot şort’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki sarı etek’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki kahverengi ceket’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki bej kazak’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki desenli eşofman’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki pembe bluz’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki gri kazak’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki turuncu sweatshirt’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki lila etek’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki siyah elbise’i çıkarabilir misin?
+RemoveFromCart,Sepetimdeki beyaz tişört’i çıkarabilir misin?
+RemoveFromCart,kırmızı elbise’i sepetten lütfen kaldır
+RemoveFromCart,mavi tişört’i sepetten lütfen kaldır
+RemoveFromCart,siyah pantolon’i sepetten lütfen kaldır
+RemoveFromCart,beyaz gömlek’i sepetten lütfen kaldır
+RemoveFromCart,yeşil mont’i sepetten lütfen kaldır
+RemoveFromCart,kot şort’i sepetten lütfen kaldır
+RemoveFromCart,sarı etek’i sepetten lütfen kaldır
+RemoveFromCart,kahverengi ceket’i sepetten lütfen kaldır
+RemoveFromCart,bej kazak’i sepetten lütfen kaldır
+RemoveFromCart,desenli eşofman’i sepetten lütfen kaldır
+RemoveFromCart,pembe bluz’i sepetten lütfen kaldır
+RemoveFromCart,gri kazak’i sepetten lütfen kaldır
+RemoveFromCart,turuncu sweatshirt’i sepetten lütfen kaldır
+RemoveFromCart,lila etek’i sepetten lütfen kaldır
+RemoveFromCart,siyah elbise’i sepetten lütfen kaldır
+RemoveFromCart,beyaz tişört’i sepetten lütfen kaldır
+RemoveFromCart,Sepetten kırmızı elbise’i siliver
+RemoveFromCart,Sepetten mavi tişört’i siliver
+RemoveFromCart,Sepetten siyah pantolon’i siliver
+RemoveFromCart,Sepetten beyaz gömlek’i siliver
+RemoveFromCart,Sepetten yeşil mont’i siliver
+RemoveFromCart,Sepetten kot şort’i siliver
+RemoveFromCart,Sepetten sarı etek’i siliver
+RemoveFromCart,Sepetten kahverengi ceket’i siliver
+RemoveFromCart,Sepetten bej kazak’i siliver
+RemoveFromCart,Sepetten desenli eşofman’i siliver
+RemoveFromCart,Sepetten pembe bluz’i siliver
+RemoveFromCart,Sepetten gri kazak’i siliver
+RemoveFromCart,Sepetten turuncu sweatshirt’i siliver
+RemoveFromCart,Sepetten lila etek’i siliver
+RemoveFromCart,Sepetten siyah elbise’i siliver
+RemoveFromCart,Sepetten beyaz tişört’i siliver
+RemoveFromCart,Sepetimden kırmızı elbise’i çıkar
+RemoveFromCart,Sepetimden mavi tişört’i çıkar
+RemoveFromCart,Sepetimden siyah pantolon’i çıkar
+RemoveFromCart,Sepetimden beyaz gömlek’i çıkar
+RemoveFromCart,Sepetimden yeşil mont’i çıkar
+RemoveFromCart,Sepetimden kot şort’i çıkar
+RemoveFromCart,Sepetimden sarı etek’i çıkar
+RemoveFromCart,Sepetimden kahverengi ceket’i çıkar
+RemoveFromCart,Sepetimden bej kazak’i çıkar
+RemoveFromCart,Sepetimden desenli eşofman’i çıkar
+RemoveFromCart,Sepetimden pembe bluz’i çıkar
+RemoveFromCart,Sepetimden gri kazak’i çıkar
+RemoveFromCart,Sepetimden turuncu sweatshirt’i çıkar
+RemoveFromCart,Sepetimden lila etek’i çıkar
+RemoveFromCart,Sepetimden siyah elbise’i çıkar
+RemoveFromCart,Sepetimden beyaz tişört’i çıkar
+ViewCart,Sepetimi göster
+ViewCart,Sepetimde neler var?
+ViewCart,Sepet içeriğini getir
+ViewCart,Şu an sepette ne var?
+ViewCart,Sepetimin dökümünü verir misin?
+ViewCart,Sepet detaylarını göster
+ViewCart,Sepetimdeki ürünleri listele
+UpdateQuantity,Sepetteki kırmızı elbise sayısını 1 adet yap
+UpdateQuantity,Sepetteki kırmızı elbise sayısını 2 adet yap
+UpdateQuantity,Sepetteki kırmızı elbise sayısını 3 adet yap
+UpdateQuantity,Sepetteki kırmızı elbise sayısını 4 adet yap
+UpdateQuantity,Sepetteki kırmızı elbise sayısını 5 adet yap
+UpdateQuantity,Sepetteki kırmızı elbise sayısını 6 adet yap
+UpdateQuantity,Sepetteki kırmızı elbise sayısını 7 adet yap
+UpdateQuantity,Sepetteki kırmızı elbise sayısını 8 adet yap
+UpdateQuantity,Sepetteki mavi tişört sayısını 1 adet yap
+UpdateQuantity,Sepetteki mavi tişört sayısını 2 adet yap
+UpdateQuantity,Sepetteki mavi tişört sayısını 3 adet yap
+UpdateQuantity,Sepetteki mavi tişört sayısını 4 adet yap
+UpdateQuantity,Sepetteki mavi tişört sayısını 5 adet yap
+UpdateQuantity,Sepetteki mavi tişört sayısını 6 adet yap
+UpdateQuantity,Sepetteki mavi tişört sayısını 7 adet yap
+UpdateQuantity,Sepetteki mavi tişört sayısını 8 adet yap
+UpdateQuantity,Sepetteki siyah pantolon sayısını 1 adet yap
+UpdateQuantity,Sepetteki siyah pantolon sayısını 2 adet yap
+UpdateQuantity,Sepetteki siyah pantolon sayısını 3 adet yap
+UpdateQuantity,Sepetteki siyah pantolon sayısını 4 adet yap
+UpdateQuantity,Sepetteki siyah pantolon sayısını 5 adet yap
+UpdateQuantity,Sepetteki siyah pantolon sayısını 6 adet yap
+UpdateQuantity,Sepetteki siyah pantolon sayısını 7 adet yap
+UpdateQuantity,Sepetteki siyah pantolon sayısını 8 adet yap
+UpdateQuantity,Sepetteki beyaz gömlek sayısını 1 adet yap
+UpdateQuantity,Sepetteki beyaz gömlek sayısını 2 adet yap
+UpdateQuantity,Sepetteki beyaz gömlek sayısını 3 adet yap
+UpdateQuantity,Sepetteki beyaz gömlek sayısını 4 adet yap
+UpdateQuantity,Sepetteki beyaz gömlek sayısını 5 adet yap
+UpdateQuantity,Sepetteki beyaz gömlek sayısını 6 adet yap
+UpdateQuantity,Sepetteki beyaz gömlek sayısını 7 adet yap
+UpdateQuantity,Sepetteki beyaz gömlek sayısını 8 adet yap
+UpdateQuantity,Sepetteki yeşil mont sayısını 1 adet yap
+UpdateQuantity,Sepetteki yeşil mont sayısını 2 adet yap
+UpdateQuantity,Sepetteki yeşil mont sayısını 3 adet yap
+UpdateQuantity,Sepetteki yeşil mont sayısını 4 adet yap
+UpdateQuantity,Sepetteki yeşil mont sayısını 5 adet yap
+UpdateQuantity,Sepetteki yeşil mont sayısını 6 adet yap
+UpdateQuantity,Sepetteki yeşil mont sayısını 7 adet yap
+UpdateQuantity,Sepetteki yeşil mont sayısını 8 adet yap
+UpdateQuantity,Sepetteki kot şort sayısını 1 adet yap
+UpdateQuantity,Sepetteki kot şort sayısını 2 adet yap
+UpdateQuantity,Sepetteki kot şort sayısını 3 adet yap
+UpdateQuantity,Sepetteki kot şort sayısını 4 adet yap
+UpdateQuantity,Sepetteki kot şort sayısını 5 adet yap
+UpdateQuantity,Sepetteki kot şort sayısını 6 adet yap
+UpdateQuantity,Sepetteki kot şort sayısını 7 adet yap
+UpdateQuantity,Sepetteki kot şort sayısını 8 adet yap
+UpdateQuantity,Sepetteki sarı etek sayısını 1 adet yap
+UpdateQuantity,Sepetteki sarı etek sayısını 2 adet yap
+UpdateQuantity,Sepetteki sarı etek sayısını 3 adet yap
+UpdateQuantity,Sepetteki sarı etek sayısını 4 adet yap
+UpdateQuantity,Sepetteki sarı etek sayısını 5 adet yap
+UpdateQuantity,Sepetteki sarı etek sayısını 6 adet yap
+UpdateQuantity,Sepetteki sarı etek sayısını 7 adet yap
+UpdateQuantity,Sepetteki sarı etek sayısını 8 adet yap
+UpdateQuantity,Sepetteki kahverengi ceket sayısını 1 adet yap
+UpdateQuantity,Sepetteki kahverengi ceket sayısını 2 adet yap
+UpdateQuantity,Sepetteki kahverengi ceket sayısını 3 adet yap
+UpdateQuantity,Sepetteki kahverengi ceket sayısını 4 adet yap
+UpdateQuantity,Sepetteki kahverengi ceket sayısını 5 adet yap
+UpdateQuantity,Sepetteki kahverengi ceket sayısını 6 adet yap
+UpdateQuantity,Sepetteki kahverengi ceket sayısını 7 adet yap
+UpdateQuantity,Sepetteki kahverengi ceket sayısını 8 adet yap
+UpdateQuantity,Sepetteki bej kazak sayısını 1 adet yap
+UpdateQuantity,Sepetteki bej kazak sayısını 2 adet yap
+UpdateQuantity,Sepetteki bej kazak sayısını 3 adet yap
+UpdateQuantity,Sepetteki bej kazak sayısını 4 adet yap
+UpdateQuantity,Sepetteki bej kazak sayısını 5 adet yap
+UpdateQuantity,Sepetteki bej kazak sayısını 6 adet yap
+UpdateQuantity,Sepetteki bej kazak sayısını 7 adet yap
+UpdateQuantity,Sepetteki bej kazak sayısını 8 adet yap
+UpdateQuantity,Sepetteki desenli eşofman sayısını 1 adet yap
+UpdateQuantity,Sepetteki desenli eşofman sayısını 2 adet yap
+UpdateQuantity,Sepetteki desenli eşofman sayısını 3 adet yap
+UpdateQuantity,Sepetteki desenli eşofman sayısını 4 adet yap
+UpdateQuantity,Sepetteki desenli eşofman sayısını 5 adet yap
+UpdateQuantity,Sepetteki desenli eşofman sayısını 6 adet yap
+UpdateQuantity,Sepetteki desenli eşofman sayısını 7 adet yap
+UpdateQuantity,Sepetteki desenli eşofman sayısını 8 adet yap
+UpdateQuantity,Sepetteki pembe bluz sayısını 1 adet yap
+UpdateQuantity,Sepetteki pembe bluz sayısını 2 adet yap
+UpdateQuantity,Sepetteki pembe bluz sayısını 3 adet yap
+UpdateQuantity,Sepetteki pembe bluz sayısını 4 adet yap
+UpdateQuantity,Sepetteki pembe bluz sayısını 5 adet yap
+UpdateQuantity,Sepetteki pembe bluz sayısını 6 adet yap
+UpdateQuantity,Sepetteki pembe bluz sayısını 7 adet yap
+UpdateQuantity,Sepetteki pembe bluz sayısını 8 adet yap
+UpdateQuantity,Sepetteki gri kazak sayısını 1 adet yap
+UpdateQuantity,Sepetteki gri kazak sayısını 2 adet yap
+UpdateQuantity,Sepetteki gri kazak sayısını 3 adet yap
+UpdateQuantity,Sepetteki gri kazak sayısını 4 adet yap
+UpdateQuantity,Sepetteki gri kazak sayısını 5 adet yap
+UpdateQuantity,Sepetteki gri kazak sayısını 6 adet yap
+UpdateQuantity,Sepetteki gri kazak sayısını 7 adet yap
+UpdateQuantity,Sepetteki gri kazak sayısını 8 adet yap
+UpdateQuantity,Sepetteki turuncu sweatshirt sayısını 1 adet yap
+UpdateQuantity,Sepetteki turuncu sweatshirt sayısını 2 adet yap
+UpdateQuantity,Sepetteki turuncu sweatshirt sayısını 3 adet yap
+UpdateQuantity,Sepetteki turuncu sweatshirt sayısını 4 adet yap
+UpdateQuantity,Sepetteki turuncu sweatshirt sayısını 5 adet yap
+UpdateQuantity,Sepetteki turuncu sweatshirt sayısını 6 adet yap
+UpdateQuantity,Sepetteki turuncu sweatshirt sayısını 7 adet yap
+UpdateQuantity,Sepetteki turuncu sweatshirt sayısını 8 adet yap
+UpdateQuantity,Sepetteki lila etek sayısını 1 adet yap
+UpdateQuantity,Sepetteki lila etek sayısını 2 adet yap
+UpdateQuantity,Sepetteki lila etek sayısını 3 adet yap
+UpdateQuantity,Sepetteki lila etek sayısını 4 adet yap
+UpdateQuantity,Sepetteki lila etek sayısını 5 adet yap
+UpdateQuantity,Sepetteki lila etek sayısını 6 adet yap
+UpdateQuantity,Sepetteki lila etek sayısını 7 adet yap
+UpdateQuantity,Sepetteki lila etek sayısını 8 adet yap
+UpdateQuantity,Sepetteki siyah elbise sayısını 1 adet yap
+UpdateQuantity,Sepetteki siyah elbise sayısını 2 adet yap
+UpdateQuantity,Sepetteki siyah elbise sayısını 3 adet yap
+UpdateQuantity,Sepetteki siyah elbise sayısını 4 adet yap
+UpdateQuantity,Sepetteki siyah elbise sayısını 5 adet yap
+UpdateQuantity,Sepetteki siyah elbise sayısını 6 adet yap
+UpdateQuantity,Sepetteki siyah elbise sayısını 7 adet yap
+UpdateQuantity,Sepetteki siyah elbise sayısını 8 adet yap
+UpdateQuantity,Sepetteki beyaz tişört sayısını 1 adet yap
+UpdateQuantity,Sepetteki beyaz tişört sayısını 2 adet yap
+UpdateQuantity,Sepetteki beyaz tişört sayısını 3 adet yap
+UpdateQuantity,Sepetteki beyaz tişört sayısını 4 adet yap
+UpdateQuantity,Sepetteki beyaz tişört sayısını 5 adet yap
+UpdateQuantity,Sepetteki beyaz tişört sayısını 6 adet yap
+UpdateQuantity,Sepetteki beyaz tişört sayısını 7 adet yap
+UpdateQuantity,Sepetteki beyaz tişört sayısını 8 adet yap
+UpdateQuantity,kırmızı elbise miktarını 1 adet olarak değiştir
+UpdateQuantity,kırmızı elbise miktarını 2 adet olarak değiştir
+UpdateQuantity,kırmızı elbise miktarını 3 adet olarak değiştir
+UpdateQuantity,kırmızı elbise miktarını 4 adet olarak değiştir
+UpdateQuantity,kırmızı elbise miktarını 5 adet olarak değiştir
+UpdateQuantity,kırmızı elbise miktarını 6 adet olarak değiştir
+UpdateQuantity,kırmızı elbise miktarını 7 adet olarak değiştir
+UpdateQuantity,kırmızı elbise miktarını 8 adet olarak değiştir
+UpdateQuantity,mavi tişört miktarını 1 adet olarak değiştir
+UpdateQuantity,mavi tişört miktarını 2 adet olarak değiştir
+UpdateQuantity,mavi tişört miktarını 3 adet olarak değiştir
+UpdateQuantity,mavi tişört miktarını 4 adet olarak değiştir
+UpdateQuantity,mavi tişört miktarını 5 adet olarak değiştir
+UpdateQuantity,mavi tişört miktarını 6 adet olarak değiştir
+UpdateQuantity,mavi tişört miktarını 7 adet olarak değiştir
+UpdateQuantity,mavi tişört miktarını 8 adet olarak değiştir
+UpdateQuantity,siyah pantolon miktarını 1 adet olarak değiştir
+UpdateQuantity,siyah pantolon miktarını 2 adet olarak değiştir
+UpdateQuantity,siyah pantolon miktarını 3 adet olarak değiştir
+UpdateQuantity,siyah pantolon miktarını 4 adet olarak değiştir
+UpdateQuantity,siyah pantolon miktarını 5 adet olarak değiştir
+UpdateQuantity,siyah pantolon miktarını 6 adet olarak değiştir
+UpdateQuantity,siyah pantolon miktarını 7 adet olarak değiştir
+UpdateQuantity,siyah pantolon miktarını 8 adet olarak değiştir
+UpdateQuantity,beyaz gömlek miktarını 1 adet olarak değiştir
+UpdateQuantity,beyaz gömlek miktarını 2 adet olarak değiştir
+UpdateQuantity,beyaz gömlek miktarını 3 adet olarak değiştir
+UpdateQuantity,beyaz gömlek miktarını 4 adet olarak değiştir
+UpdateQuantity,beyaz gömlek miktarını 5 adet olarak değiştir
+UpdateQuantity,beyaz gömlek miktarını 6 adet olarak değiştir
+UpdateQuantity,beyaz gömlek miktarını 7 adet olarak değiştir
+UpdateQuantity,beyaz gömlek miktarını 8 adet olarak değiştir
+UpdateQuantity,yeşil mont miktarını 1 adet olarak değiştir
+UpdateQuantity,yeşil mont miktarını 2 adet olarak değiştir
+UpdateQuantity,yeşil mont miktarını 3 adet olarak değiştir
+UpdateQuantity,yeşil mont miktarını 4 adet olarak değiştir
+UpdateQuantity,yeşil mont miktarını 5 adet olarak değiştir
+UpdateQuantity,yeşil mont miktarını 6 adet olarak değiştir
+UpdateQuantity,yeşil mont miktarını 7 adet olarak değiştir
+UpdateQuantity,yeşil mont miktarını 8 adet olarak değiştir
+UpdateQuantity,kot şort miktarını 1 adet olarak değiştir
+UpdateQuantity,kot şort miktarını 2 adet olarak değiştir
+UpdateQuantity,kot şort miktarını 3 adet olarak değiştir
+UpdateQuantity,kot şort miktarını 4 adet olarak değiştir
+UpdateQuantity,kot şort miktarını 5 adet olarak değiştir
+UpdateQuantity,kot şort miktarını 6 adet olarak değiştir
+UpdateQuantity,kot şort miktarını 7 adet olarak değiştir
+UpdateQuantity,kot şort miktarını 8 adet olarak değiştir
+UpdateQuantity,sarı etek miktarını 1 adet olarak değiştir
+UpdateQuantity,sarı etek miktarını 2 adet olarak değiştir
+UpdateQuantity,sarı etek miktarını 3 adet olarak değiştir
+UpdateQuantity,sarı etek miktarını 4 adet olarak değiştir
+UpdateQuantity,sarı etek miktarını 5 adet olarak değiştir
+UpdateQuantity,sarı etek miktarını 6 adet olarak değiştir
+UpdateQuantity,sarı etek miktarını 7 adet olarak değiştir
+UpdateQuantity,sarı etek miktarını 8 adet olarak değiştir
+UpdateQuantity,kahverengi ceket miktarını 1 adet olarak değiştir
+UpdateQuantity,kahverengi ceket miktarını 2 adet olarak değiştir
+UpdateQuantity,kahverengi ceket miktarını 3 adet olarak değiştir
+UpdateQuantity,kahverengi ceket miktarını 4 adet olarak değiştir
+UpdateQuantity,kahverengi ceket miktarını 5 adet olarak değiştir
+UpdateQuantity,kahverengi ceket miktarını 6 adet olarak değiştir
+UpdateQuantity,kahverengi ceket miktarını 7 adet olarak değiştir
+UpdateQuantity,kahverengi ceket miktarını 8 adet olarak değiştir
+UpdateQuantity,bej kazak miktarını 1 adet olarak değiştir
+UpdateQuantity,bej kazak miktarını 2 adet olarak değiştir
+UpdateQuantity,bej kazak miktarını 3 adet olarak değiştir
+UpdateQuantity,bej kazak miktarını 4 adet olarak değiştir
+UpdateQuantity,bej kazak miktarını 5 adet olarak değiştir
+UpdateQuantity,bej kazak miktarını 6 adet olarak değiştir
+UpdateQuantity,bej kazak miktarını 7 adet olarak değiştir
+UpdateQuantity,bej kazak miktarını 8 adet olarak değiştir
+UpdateQuantity,desenli eşofman miktarını 1 adet olarak değiştir
+UpdateQuantity,desenli eşofman miktarını 2 adet olarak değiştir
+UpdateQuantity,desenli eşofman miktarını 3 adet olarak değiştir
+UpdateQuantity,desenli eşofman miktarını 4 adet olarak değiştir
+UpdateQuantity,desenli eşofman miktarını 5 adet olarak değiştir
+UpdateQuantity,desenli eşofman miktarını 6 adet olarak değiştir
+UpdateQuantity,desenli eşofman miktarını 7 adet olarak değiştir
+UpdateQuantity,desenli eşofman miktarını 8 adet olarak değiştir
+UpdateQuantity,pembe bluz miktarını 1 adet olarak değiştir
+UpdateQuantity,pembe bluz miktarını 2 adet olarak değiştir
+UpdateQuantity,pembe bluz miktarını 3 adet olarak değiştir
+UpdateQuantity,pembe bluz miktarını 4 adet olarak değiştir
+UpdateQuantity,pembe bluz miktarını 5 adet olarak değiştir
+UpdateQuantity,pembe bluz miktarını 6 adet olarak değiştir
+UpdateQuantity,pembe bluz miktarını 7 adet olarak değiştir
+UpdateQuantity,pembe bluz miktarını 8 adet olarak değiştir
+UpdateQuantity,gri kazak miktarını 1 adet olarak değiştir
+UpdateQuantity,gri kazak miktarını 2 adet olarak değiştir
+UpdateQuantity,gri kazak miktarını 3 adet olarak değiştir
+UpdateQuantity,gri kazak miktarını 4 adet olarak değiştir
+UpdateQuantity,gri kazak miktarını 5 adet olarak değiştir
+UpdateQuantity,gri kazak miktarını 6 adet olarak değiştir
+UpdateQuantity,gri kazak miktarını 7 adet olarak değiştir
+UpdateQuantity,gri kazak miktarını 8 adet olarak değiştir
+UpdateQuantity,turuncu sweatshirt miktarını 1 adet olarak değiştir
+UpdateQuantity,turuncu sweatshirt miktarını 2 adet olarak değiştir
+UpdateQuantity,turuncu sweatshirt miktarını 3 adet olarak değiştir
+UpdateQuantity,turuncu sweatshirt miktarını 4 adet olarak değiştir
+UpdateQuantity,turuncu sweatshirt miktarını 5 adet olarak değiştir
+UpdateQuantity,turuncu sweatshirt miktarını 6 adet olarak değiştir
+UpdateQuantity,turuncu sweatshirt miktarını 7 adet olarak değiştir
+UpdateQuantity,turuncu sweatshirt miktarını 8 adet olarak değiştir
+UpdateQuantity,lila etek miktarını 1 adet olarak değiştir
+UpdateQuantity,lila etek miktarını 2 adet olarak değiştir
+UpdateQuantity,lila etek miktarını 3 adet olarak değiştir
+UpdateQuantity,lila etek miktarını 4 adet olarak değiştir
+UpdateQuantity,lila etek miktarını 5 adet olarak değiştir
+UpdateQuantity,lila etek miktarını 6 adet olarak değiştir
+UpdateQuantity,lila etek miktarını 7 adet olarak değiştir
+UpdateQuantity,lila etek miktarını 8 adet olarak değiştir
+UpdateQuantity,siyah elbise miktarını 1 adet olarak değiştir
+UpdateQuantity,siyah elbise miktarını 2 adet olarak değiştir
+UpdateQuantity,siyah elbise miktarını 3 adet olarak değiştir
+UpdateQuantity,siyah elbise miktarını 4 adet olarak değiştir
+UpdateQuantity,siyah elbise miktarını 5 adet olarak değiştir
+UpdateQuantity,siyah elbise miktarını 6 adet olarak değiştir
+UpdateQuantity,siyah elbise miktarını 7 adet olarak değiştir
+UpdateQuantity,siyah elbise miktarını 8 adet olarak değiştir
+UpdateQuantity,beyaz tişört miktarını 1 adet olarak değiştir
+UpdateQuantity,beyaz tişört miktarını 2 adet olarak değiştir
+UpdateQuantity,beyaz tişört miktarını 3 adet olarak değiştir
+UpdateQuantity,beyaz tişört miktarını 4 adet olarak değiştir
+UpdateQuantity,beyaz tişört miktarını 5 adet olarak değiştir
+UpdateQuantity,beyaz tişört miktarını 6 adet olarak değiştir
+UpdateQuantity,beyaz tişört miktarını 7 adet olarak değiştir
+UpdateQuantity,beyaz tişört miktarını 8 adet olarak değiştir
+UpdateQuantity,Sepetteki kırmızı elbise adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki kırmızı elbise adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki kırmızı elbise adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki kırmızı elbise adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki kırmızı elbise adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki kırmızı elbise adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki kırmızı elbise adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki kırmızı elbise adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki mavi tişört adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki mavi tişört adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki mavi tişört adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki mavi tişört adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki mavi tişört adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki mavi tişört adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki mavi tişört adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki mavi tişört adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah pantolon adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah pantolon adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah pantolon adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah pantolon adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah pantolon adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah pantolon adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah pantolon adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah pantolon adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz gömlek adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz gömlek adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz gömlek adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz gömlek adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz gömlek adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz gömlek adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz gömlek adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz gömlek adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki yeşil mont adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki yeşil mont adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki yeşil mont adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki yeşil mont adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki yeşil mont adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki yeşil mont adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki yeşil mont adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki yeşil mont adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki kot şort adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki kot şort adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki kot şort adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki kot şort adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki kot şort adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki kot şort adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki kot şort adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki kot şort adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki sarı etek adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki sarı etek adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki sarı etek adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki sarı etek adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki sarı etek adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki sarı etek adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki sarı etek adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki sarı etek adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki kahverengi ceket adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki kahverengi ceket adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki kahverengi ceket adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki kahverengi ceket adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki kahverengi ceket adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki kahverengi ceket adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki kahverengi ceket adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki kahverengi ceket adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki bej kazak adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki bej kazak adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki bej kazak adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki bej kazak adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki bej kazak adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki bej kazak adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki bej kazak adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki bej kazak adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki desenli eşofman adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki desenli eşofman adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki desenli eşofman adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki desenli eşofman adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki desenli eşofman adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki desenli eşofman adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki desenli eşofman adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki desenli eşofman adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki pembe bluz adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki pembe bluz adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki pembe bluz adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki pembe bluz adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki pembe bluz adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki pembe bluz adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki pembe bluz adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki pembe bluz adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki gri kazak adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki gri kazak adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki gri kazak adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki gri kazak adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki gri kazak adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki gri kazak adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki gri kazak adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki gri kazak adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki turuncu sweatshirt adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki turuncu sweatshirt adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki turuncu sweatshirt adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki turuncu sweatshirt adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki turuncu sweatshirt adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki turuncu sweatshirt adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki turuncu sweatshirt adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki turuncu sweatshirt adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki lila etek adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki lila etek adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki lila etek adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki lila etek adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki lila etek adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki lila etek adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki lila etek adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki lila etek adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah elbise adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah elbise adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah elbise adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah elbise adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah elbise adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah elbise adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah elbise adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki siyah elbise adedini 8 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz tişört adedini 1 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz tişört adedini 2 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz tişört adedini 3 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz tişört adedini 4 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz tişört adedini 5 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz tişört adedini 6 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz tişört adedini 7 adet yapar mısın?
+UpdateQuantity,Sepetteki beyaz tişört adedini 8 adet yapar mısın?
+UpdateQuantity,kırmızı elbise için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,kırmızı elbise için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,kırmızı elbise için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,kırmızı elbise için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,kırmızı elbise için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,kırmızı elbise için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,kırmızı elbise için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,kırmızı elbise için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,mavi tişört için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,mavi tişört için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,mavi tişört için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,mavi tişört için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,mavi tişört için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,mavi tişört için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,mavi tişört için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,mavi tişört için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,siyah pantolon için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,siyah pantolon için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,siyah pantolon için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,siyah pantolon için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,siyah pantolon için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,siyah pantolon için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,siyah pantolon için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,siyah pantolon için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,beyaz gömlek için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,beyaz gömlek için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,beyaz gömlek için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,beyaz gömlek için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,beyaz gömlek için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,beyaz gömlek için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,beyaz gömlek için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,beyaz gömlek için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,yeşil mont için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,yeşil mont için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,yeşil mont için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,yeşil mont için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,yeşil mont için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,yeşil mont için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,yeşil mont için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,yeşil mont için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,kot şort için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,kot şort için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,kot şort için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,kot şort için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,kot şort için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,kot şort için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,kot şort için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,kot şort için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,sarı etek için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,sarı etek için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,sarı etek için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,sarı etek için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,sarı etek için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,sarı etek için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,sarı etek için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,sarı etek için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,kahverengi ceket için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,kahverengi ceket için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,kahverengi ceket için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,kahverengi ceket için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,kahverengi ceket için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,kahverengi ceket için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,kahverengi ceket için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,kahverengi ceket için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,bej kazak için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,bej kazak için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,bej kazak için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,bej kazak için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,bej kazak için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,bej kazak için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,bej kazak için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,bej kazak için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,desenli eşofman için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,desenli eşofman için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,desenli eşofman için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,desenli eşofman için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,desenli eşofman için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,desenli eşofman için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,desenli eşofman için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,desenli eşofman için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,pembe bluz için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,pembe bluz için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,pembe bluz için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,pembe bluz için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,pembe bluz için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,pembe bluz için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,pembe bluz için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,pembe bluz için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,gri kazak için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,gri kazak için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,gri kazak için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,gri kazak için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,gri kazak için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,gri kazak için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,gri kazak için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,gri kazak için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,turuncu sweatshirt için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,turuncu sweatshirt için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,turuncu sweatshirt için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,turuncu sweatshirt için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,turuncu sweatshirt için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,turuncu sweatshirt için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,turuncu sweatshirt için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,turuncu sweatshirt için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,lila etek için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,lila etek için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,lila etek için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,lila etek için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,lila etek için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,lila etek için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,lila etek için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,lila etek için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,siyah elbise için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,siyah elbise için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,siyah elbise için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,siyah elbise için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,siyah elbise için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,siyah elbise için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,siyah elbise için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,siyah elbise için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,beyaz tişört için adet sayısını 1 adet olarak güncelle
+UpdateQuantity,beyaz tişört için adet sayısını 2 adet olarak güncelle
+UpdateQuantity,beyaz tişört için adet sayısını 3 adet olarak güncelle
+UpdateQuantity,beyaz tişört için adet sayısını 4 adet olarak güncelle
+UpdateQuantity,beyaz tişört için adet sayısını 5 adet olarak güncelle
+UpdateQuantity,beyaz tişört için adet sayısını 6 adet olarak güncelle
+UpdateQuantity,beyaz tişört için adet sayısını 7 adet olarak güncelle
+UpdateQuantity,beyaz tişört için adet sayısını 8 adet olarak güncelle
+UpdateQuantity,Lütfen kırmızı elbise miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen kırmızı elbise miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen kırmızı elbise miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen kırmızı elbise miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen kırmızı elbise miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen kırmızı elbise miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen kırmızı elbise miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen kırmızı elbise miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen mavi tişört miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen mavi tişört miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen mavi tişört miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen mavi tişört miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen mavi tişört miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen mavi tişört miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen mavi tişört miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen mavi tişört miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen siyah pantolon miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen siyah pantolon miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen siyah pantolon miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen siyah pantolon miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen siyah pantolon miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen siyah pantolon miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen siyah pantolon miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen siyah pantolon miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz gömlek miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz gömlek miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz gömlek miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz gömlek miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz gömlek miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz gömlek miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz gömlek miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz gömlek miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen yeşil mont miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen yeşil mont miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen yeşil mont miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen yeşil mont miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen yeşil mont miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen yeşil mont miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen yeşil mont miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen yeşil mont miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen kot şort miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen kot şort miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen kot şort miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen kot şort miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen kot şort miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen kot şort miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen kot şort miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen kot şort miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen sarı etek miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen sarı etek miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen sarı etek miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen sarı etek miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen sarı etek miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen sarı etek miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen sarı etek miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen sarı etek miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen kahverengi ceket miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen kahverengi ceket miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen kahverengi ceket miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen kahverengi ceket miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen kahverengi ceket miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen kahverengi ceket miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen kahverengi ceket miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen kahverengi ceket miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen bej kazak miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen bej kazak miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen bej kazak miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen bej kazak miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen bej kazak miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen bej kazak miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen bej kazak miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen bej kazak miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen desenli eşofman miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen desenli eşofman miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen desenli eşofman miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen desenli eşofman miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen desenli eşofman miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen desenli eşofman miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen desenli eşofman miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen desenli eşofman miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen pembe bluz miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen pembe bluz miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen pembe bluz miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen pembe bluz miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen pembe bluz miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen pembe bluz miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen pembe bluz miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen pembe bluz miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen gri kazak miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen gri kazak miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen gri kazak miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen gri kazak miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen gri kazak miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen gri kazak miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen gri kazak miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen gri kazak miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen turuncu sweatshirt miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen turuncu sweatshirt miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen turuncu sweatshirt miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen turuncu sweatshirt miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen turuncu sweatshirt miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen turuncu sweatshirt miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen turuncu sweatshirt miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen turuncu sweatshirt miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen lila etek miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen lila etek miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen lila etek miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen lila etek miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen lila etek miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen lila etek miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen lila etek miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen lila etek miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen siyah elbise miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen siyah elbise miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen siyah elbise miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen siyah elbise miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen siyah elbise miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen siyah elbise miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen siyah elbise miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen siyah elbise miktarını 8 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz tişört miktarını 1 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz tişört miktarını 2 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz tişört miktarını 3 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz tişört miktarını 4 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz tişört miktarını 5 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz tişört miktarını 6 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz tişört miktarını 7 adet olarak ayarla
+UpdateQuantity,Lütfen beyaz tişört miktarını 8 adet olarak ayarla
+UpdateQuantity,Sepetimdeki kırmızı elbise sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki kırmızı elbise sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki kırmızı elbise sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki kırmızı elbise sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki kırmızı elbise sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki kırmızı elbise sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki kırmızı elbise sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki kırmızı elbise sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki mavi tişört sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki mavi tişört sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki mavi tişört sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki mavi tişört sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki mavi tişört sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki mavi tişört sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki mavi tişört sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki mavi tişört sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki siyah pantolon sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki siyah pantolon sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki siyah pantolon sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki siyah pantolon sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki siyah pantolon sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki siyah pantolon sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki siyah pantolon sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki siyah pantolon sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki beyaz gömlek sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki beyaz gömlek sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki beyaz gömlek sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki beyaz gömlek sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki beyaz gömlek sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki beyaz gömlek sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki beyaz gömlek sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki beyaz gömlek sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki yeşil mont sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki yeşil mont sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki yeşil mont sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki yeşil mont sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki yeşil mont sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki yeşil mont sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki yeşil mont sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki yeşil mont sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki kot şort sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki kot şort sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki kot şort sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki kot şort sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki kot şort sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki kot şort sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki kot şort sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki kot şort sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki sarı etek sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki sarı etek sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki sarı etek sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki sarı etek sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki sarı etek sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki sarı etek sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki sarı etek sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki sarı etek sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki kahverengi ceket sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki kahverengi ceket sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki kahverengi ceket sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki kahverengi ceket sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki kahverengi ceket sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki kahverengi ceket sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki kahverengi ceket sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki kahverengi ceket sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki bej kazak sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki bej kazak sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki bej kazak sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki bej kazak sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki bej kazak sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki bej kazak sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki bej kazak sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki bej kazak sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki desenli eşofman sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki desenli eşofman sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki desenli eşofman sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki desenli eşofman sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki desenli eşofman sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki desenli eşofman sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki desenli eşofman sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki desenli eşofman sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki pembe bluz sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki pembe bluz sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki pembe bluz sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki pembe bluz sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki pembe bluz sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki pembe bluz sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki pembe bluz sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki pembe bluz sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki gri kazak sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki gri kazak sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki gri kazak sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki gri kazak sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki gri kazak sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki gri kazak sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki gri kazak sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki gri kazak sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki turuncu sweatshirt sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki turuncu sweatshirt sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki turuncu sweatshirt sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki turuncu sweatshirt sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki turuncu sweatshirt sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki turuncu sweatshirt sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki turuncu sweatshirt sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki turuncu sweatshirt sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki lila etek sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki lila etek sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki lila etek sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki lila etek sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki lila etek sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki lila etek sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki lila etek sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki lila etek sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki siyah elbise sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki siyah elbise sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki siyah elbise sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki siyah elbise sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki siyah elbise sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki siyah elbise sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki siyah elbise sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki siyah elbise sayısını 8 adet yap
+UpdateQuantity,Sepetimdeki beyaz tişört sayısını 1 adet yap
+UpdateQuantity,Sepetimdeki beyaz tişört sayısını 2 adet yap
+UpdateQuantity,Sepetimdeki beyaz tişört sayısını 3 adet yap
+UpdateQuantity,Sepetimdeki beyaz tişört sayısını 4 adet yap
+UpdateQuantity,Sepetimdeki beyaz tişört sayısını 5 adet yap
+UpdateQuantity,Sepetimdeki beyaz tişört sayısını 6 adet yap
+UpdateQuantity,Sepetimdeki beyaz tişört sayısını 7 adet yap
+UpdateQuantity,Sepetimdeki beyaz tişört sayısını 8 adet yap
+UpdateQuantity,Adetini 1 adet yaparak kırmızı elbise’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak kırmızı elbise’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak kırmızı elbise’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak kırmızı elbise’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak kırmızı elbise’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak kırmızı elbise’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak kırmızı elbise’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak kırmızı elbise’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak mavi tişört’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak mavi tişört’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak mavi tişört’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak mavi tişört’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak mavi tişört’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak mavi tişört’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak mavi tişört’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak mavi tişört’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak siyah pantolon’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak siyah pantolon’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak siyah pantolon’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak siyah pantolon’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak siyah pantolon’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak siyah pantolon’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak siyah pantolon’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak siyah pantolon’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak beyaz gömlek’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak beyaz gömlek’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak beyaz gömlek’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak beyaz gömlek’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak beyaz gömlek’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak beyaz gömlek’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak beyaz gömlek’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak beyaz gömlek’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak yeşil mont’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak yeşil mont’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak yeşil mont’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak yeşil mont’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak yeşil mont’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak yeşil mont’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak yeşil mont’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak yeşil mont’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak kot şort’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak kot şort’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak kot şort’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak kot şort’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak kot şort’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak kot şort’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak kot şort’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak kot şort’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak sarı etek’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak sarı etek’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak sarı etek’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak sarı etek’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak sarı etek’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak sarı etek’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak sarı etek’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak sarı etek’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak kahverengi ceket’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak kahverengi ceket’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak kahverengi ceket’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak kahverengi ceket’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak kahverengi ceket’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak kahverengi ceket’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak kahverengi ceket’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak kahverengi ceket’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak bej kazak’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak bej kazak’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak bej kazak’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak bej kazak’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak bej kazak’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak bej kazak’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak bej kazak’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak bej kazak’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak desenli eşofman’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak desenli eşofman’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak desenli eşofman’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak desenli eşofman’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak desenli eşofman’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak desenli eşofman’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak desenli eşofman’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak desenli eşofman’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak pembe bluz’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak pembe bluz’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak pembe bluz’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak pembe bluz’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak pembe bluz’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak pembe bluz’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak pembe bluz’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak pembe bluz’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak gri kazak’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak gri kazak’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak gri kazak’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak gri kazak’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak gri kazak’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak gri kazak’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak gri kazak’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak gri kazak’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak turuncu sweatshirt’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak turuncu sweatshirt’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak turuncu sweatshirt’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak turuncu sweatshirt’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak turuncu sweatshirt’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak turuncu sweatshirt’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak turuncu sweatshirt’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak turuncu sweatshirt’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak lila etek’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak lila etek’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak lila etek’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak lila etek’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak lila etek’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak lila etek’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak lila etek’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak lila etek’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak siyah elbise’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak siyah elbise’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak siyah elbise’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak siyah elbise’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak siyah elbise’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak siyah elbise’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak siyah elbise’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak siyah elbise’i güncelle
+UpdateQuantity,Adetini 1 adet yaparak beyaz tişört’i güncelle
+UpdateQuantity,Adetini 2 adet yaparak beyaz tişört’i güncelle
+UpdateQuantity,Adetini 3 adet yaparak beyaz tişört’i güncelle
+UpdateQuantity,Adetini 4 adet yaparak beyaz tişört’i güncelle
+UpdateQuantity,Adetini 5 adet yaparak beyaz tişört’i güncelle
+UpdateQuantity,Adetini 6 adet yaparak beyaz tişört’i güncelle
+UpdateQuantity,Adetini 7 adet yaparak beyaz tişört’i güncelle
+UpdateQuantity,Adetini 8 adet yaparak beyaz tişört’i güncelle
+ClearCart,Sepeti boşalt
+ClearCart,Sepetimi temizle lütfen
+ClearCart,Tüm ürünleri sepetten çıkar
+ClearCart,Sepetimi sıfırla
+ClearCart,Sepetimdeki her şeyi sil
+ClearCart,Sepetteki tüm ürünleri kaldır
+ClearCart,Sepetimi tamamen boşalt
+ApplyDiscount,İndirim kodu INDIRIM10 uygula
+ApplyDiscount,İndirim kodu SEPET5 uygula
+ApplyDiscount,İndirim kodu FIRSAT20 uygula
+ApplyDiscount,İndirim kodu YAZINDIRIM uygula
+ApplyDiscount,İndirim kodu KARGOBEDAVA uygula
+ApplyDiscount,İndirim kodu HAZIRANSALE uygula
+ApplyDiscount,İndirim kodu SONBAHAR15 uygula
+ApplyDiscount,İndirim kodu YENISEZON uygula
+ApplyDiscount,INDIRIM10 kodu kullanmak istiyorum
+ApplyDiscount,SEPET5 kodu kullanmak istiyorum
+ApplyDiscount,FIRSAT20 kodu kullanmak istiyorum
+ApplyDiscount,YAZINDIRIM kodu kullanmak istiyorum
+ApplyDiscount,KARGOBEDAVA kodu kullanmak istiyorum
+ApplyDiscount,HAZIRANSALE kodu kullanmak istiyorum
+ApplyDiscount,SONBAHAR15 kodu kullanmak istiyorum
+ApplyDiscount,YENISEZON kodu kullanmak istiyorum
+ApplyDiscount,Sepette INDIRIM10 indirim kodu var mı?
+ApplyDiscount,Sepette SEPET5 indirim kodu var mı?
+ApplyDiscount,Sepette FIRSAT20 indirim kodu var mı?
+ApplyDiscount,Sepette YAZINDIRIM indirim kodu var mı?
+ApplyDiscount,Sepette KARGOBEDAVA indirim kodu var mı?
+ApplyDiscount,Sepette HAZIRANSALE indirim kodu var mı?
+ApplyDiscount,Sepette SONBAHAR15 indirim kodu var mı?
+ApplyDiscount,Sepette YENISEZON indirim kodu var mı?
+ApplyDiscount,INDIRIM10 kodunu girip indirimi uygula
+ApplyDiscount,SEPET5 kodunu girip indirimi uygula
+ApplyDiscount,FIRSAT20 kodunu girip indirimi uygula
+ApplyDiscount,YAZINDIRIM kodunu girip indirimi uygula
+ApplyDiscount,KARGOBEDAVA kodunu girip indirimi uygula
+ApplyDiscount,HAZIRANSALE kodunu girip indirimi uygula
+ApplyDiscount,SONBAHAR15 kodunu girip indirimi uygula
+ApplyDiscount,YENISEZON kodunu girip indirimi uygula
+ApplyDiscount,Lütfen INDIRIM10 kuponunu aktif et
+ApplyDiscount,Lütfen SEPET5 kuponunu aktif et
+ApplyDiscount,Lütfen FIRSAT20 kuponunu aktif et
+ApplyDiscount,Lütfen YAZINDIRIM kuponunu aktif et
+ApplyDiscount,Lütfen KARGOBEDAVA kuponunu aktif et
+ApplyDiscount,Lütfen HAZIRANSALE kuponunu aktif et
+ApplyDiscount,Lütfen SONBAHAR15 kuponunu aktif et
+ApplyDiscount,Lütfen YENISEZON kuponunu aktif et
+ApplyDiscount,INDIRIM10 ile ne kadar indirim alırım?
+ApplyDiscount,SEPET5 ile ne kadar indirim alırım?
+ApplyDiscount,FIRSAT20 ile ne kadar indirim alırım?
+ApplyDiscount,YAZINDIRIM ile ne kadar indirim alırım?
+ApplyDiscount,KARGOBEDAVA ile ne kadar indirim alırım?
+ApplyDiscount,HAZIRANSALE ile ne kadar indirim alırım?
+ApplyDiscount,SONBAHAR15 ile ne kadar indirim alırım?
+ApplyDiscount,YENISEZON ile ne kadar indirim alırım?
+ApplyDiscount,Sepete INDIRIM10 kodunu uygula
+ApplyDiscount,Sepete SEPET5 kodunu uygula
+ApplyDiscount,Sepete FIRSAT20 kodunu uygula
+ApplyDiscount,Sepete YAZINDIRIM kodunu uygula
+ApplyDiscount,Sepete KARGOBEDAVA kodunu uygula
+ApplyDiscount,Sepete HAZIRANSALE kodunu uygula
+ApplyDiscount,Sepete SONBAHAR15 kodunu uygula
+ApplyDiscount,Sepete YENISEZON kodunu uygula
+Checkout,Satın al
+Checkout,Ödeme yapalım
+Checkout,Alışverişi tamamla
+Checkout,Kasaya git
+Checkout,Satın alma işlemini başlat
+Checkout,Ödeme ekranına geç
+Checkout,Siparişi onayla

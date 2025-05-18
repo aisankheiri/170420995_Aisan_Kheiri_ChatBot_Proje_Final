@@ -111,20 +111,22 @@ def predict():
     response = random.choice(templates.get(intent, templates["Fallback"]))
     return jsonify({"intent": intent, "response": response})
 
+import pandas as pd
+@app.route('/csv-data', methods=['GET'])
+def get_csv_data():
+    df = pd.read_csv('data/data.csv')  
+    columns = df.columns.tolist()
+    data = df.to_dict(orient='records')
+    return jsonify({"columns": columns, "data": data})
 
 
-@app.route('/ask', methods=['POST'])
-def ask():
-    data = request.get_json()
-    question = data.get('question', '')
-    
-    # TODO: Burada modelinizi çağırın, question üzerinden cevap üretin
-    # Örneğin OpenAI API ile: response = openai.Completion.create(...)
-    # answer = response.choices[0].text.strip()
-    
-    answer = f"Model cevabı (echo): {question}"  # demo amaçlı echo
-    
-    return jsonify({'answer': answer})
+from flask import send_file
+import os
+
+@app.route('/download-csv', methods=['GET'])
+def download_csv():
+    csv_path = os.path.join('data', 'data.csv') 
+    return send_file(csv_path, mimetype='text/csv', as_attachment=True, download_name='data.csv')
 
 
 if __name__ == '__main__':
