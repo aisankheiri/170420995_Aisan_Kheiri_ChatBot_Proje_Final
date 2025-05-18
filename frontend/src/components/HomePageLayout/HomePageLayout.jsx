@@ -13,6 +13,7 @@ import GrupInformation from "../GrupInformation/GrupInformation";
 import AboutPage from "../AboutPage/AboutPage";
 import Chat from "../Q&A/Chat";
 import TabsDataSet from "../DataSet/TabsDataSet";
+import TabsModels from "../Models/TabsModels";
 
 const { Header, Sider, Content } = Layout;
 
@@ -32,6 +33,8 @@ const HomePageLayout = () => {
         return <Chat />;
       case "3":
         return <TabsDataSet />;
+      case "4":
+        return <TabsModels />;
       case "5":
         return <GrupInformation />;
       default:
