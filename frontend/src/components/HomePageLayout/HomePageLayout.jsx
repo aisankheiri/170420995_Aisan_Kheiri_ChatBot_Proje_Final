@@ -12,6 +12,7 @@ import { Button, Layout, Menu, theme } from "antd";
 import GrupInformation from "../GrupInformation/GrupInformation";
 import AboutPage from "../AboutPage/AboutPage";
 import Chat from "../Q&A/Chat";
+import TabsDataSet from "../DataSet/TabsDataSet";
 
 const { Header, Sider, Content } = Layout;
 
@@ -29,6 +30,8 @@ const HomePageLayout = () => {
         return <AboutPage />;
       case "2":
         return <Chat />;
+      case "3":
+        return <TabsDataSet />;
       case "5":
         return <GrupInformation />;
       default:
