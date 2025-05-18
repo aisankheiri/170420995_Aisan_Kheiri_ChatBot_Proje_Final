@@ -29,7 +29,7 @@ const HomePageLayout = () => {
         return <AboutPage />;
       case "2":
         return <Chat />;
-      case "3":
+      case "5":
         return <GrupInformation />;
       default:
         return <AboutPage />;
@@ -67,7 +67,7 @@ const HomePageLayout = () => {
             },
             { key: "3", icon: <FileOutlined />, label: "Veri Seti" },
             { key: "4", icon: <InfoOutlined />, label: "Model Hakkında" },
-            { key: "5", icon: <TeamOutlined />, label: "Grup Hakkında" },
+            { key: "5", icon: <TeamOutlined />, label: "Hazırlayan Hakkında" },
           ]}
         />
       </Sider>
