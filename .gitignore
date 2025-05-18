@@ -1,0 +1,40 @@
+# Python venv, model dosyaları ve büyük paketler
+backend/venv/
+backend/model/
+
+# __pycache__ ve .dist-info gibi derlenmiş Python klasörleri
+**/__pycache__/
+**/*.dist-info/
+**/*.egg-info/
+
+# Windows .exe dosyaları
+*.exe
+
+# Whl dosyaları ve büyük binaryler
+*.whl
+*.bin
+*.pkl
+*.pt
+*.h5
+*.sav
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Node.js modülleri
+frontend/node_modules/
+
+# Derlenmiş React çıktısı (eğer build klasörü varsa)
+frontend/build/
+
+# Geçici sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Kendi bileşenlerin ama dışlamak istediklerin (örnek olarak)
+frontend/src/components/DataSet/
+
+# Eğer özel klasörler varsa:
+# backend/venv/Scripts/
+# backend/venv/share/
