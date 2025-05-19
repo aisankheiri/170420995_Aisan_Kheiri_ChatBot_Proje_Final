@@ -128,6 +128,37 @@ def download_csv():
     csv_path = os.path.join('data', 'data.csv') 
     return send_file(csv_path, mimetype='text/csv', as_attachment=True, download_name='data.csv')
 
+# from flask import Flask, request, jsonify
+# from transformers import T5Tokenizer, T5ForConditionalGeneration
+# import torch
+
+# # Load model and tokenizer
+# tokenizer = T5Tokenizer.from_pretrained("./model/finetuned-t5-intent-qa", local_files_only=True)
+# model = T5ForConditionalGeneration.from_pretrained("./model/finetuned-t5-intent-qa", local_files_only=True)
+
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# model.to(device)
+
+# @app.route("/predict2", methods=["POST"])
+# def predict2():
+#     data = request.json
+#     user_input = data.get("message", "")
+
+#     # Intent prediction
+#     intent_prompt = f"Intent sınıfını tahmin et: {user_input}"
+#     intent_input = tokenizer(intent_prompt, return_tensors="pt", padding=True, truncation=True).to(device)
+#     intent_output = model.generate(**intent_input, max_new_tokens=16)
+#     intent_result = tokenizer.decode(intent_output[0], skip_special_tokens=True)
+
+#     # Response generation
+#     response_prompt = f"Bu cümleye uygun yanıt ver: {user_input}"
+#     response_input = tokenizer(response_prompt, return_tensors="pt", padding=True, truncation=True).to(device)
+#     response_output = model.generate(**response_input, max_new_tokens=64)
+#     response_result = tokenizer.decode(response_output[0], skip_special_tokens=True)
+
+#     return jsonify({"intent": intent_result, "response": response_result})
+
+
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)

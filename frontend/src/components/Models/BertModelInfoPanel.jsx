@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, Typography } from "antd";
-import ModelPerformancePanel from "./BertModelPerformancePanel";
+import BertModelPerformancePanel from "./BertModelPerformancePanel";
 
 const { Title, Paragraph, Text } = Typography;
 
@@ -50,7 +50,7 @@ const BertModelInfoPanel = () => {
           </Paragraph>
         </Typography>
       </Card>
-      <ModelPerformancePanel />
+      <BertModelPerformancePanel />
     </div>
   );
 };

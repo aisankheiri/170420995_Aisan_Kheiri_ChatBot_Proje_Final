@@ -1,4 +1,4 @@
-// ModelPerformancePanel.jsx
+// BertModelPerformancePanel.jsx
 import React from "react";
 import { Card, Typography, Table, Tag } from "antd";
 
@@ -34,7 +34,7 @@ const columns = [
   { title: "Destek (Support)", dataIndex: "support", key: "support" },
 ];
 
-const ModelPerformancePanel = () => {
+const BertModelPerformancePanel = () => {
   return (
     <Card style={{ maxWidth: 900, margin: "40px auto", borderRadius: 12 }}>
       <Typography>
@@ -75,4 +75,4 @@ const ModelPerformancePanel = () => {
   );
 };
 
-export default ModelPerformancePanel;
+export default BertModelPerformancePanel;

@@ -11,9 +11,9 @@ import { Button, Layout, Menu, theme } from "antd";
 
 import GrupInformation from "../GrupInformation/GrupInformation";
 import AboutPage from "../AboutPage/AboutPage";
-import Chat from "../Q&A/Chat";
 import TabsDataSet from "../DataSet/TabsDataSet";
 import TabsModels from "../Models/TabsModels";
+import Chat from "../Q&A/Chat";
 
 const { Header, Sider, Content } = Layout;
 
