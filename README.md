@@ -1,6 +1,7 @@
 "# 170420995_Aisan_Kheiri_ChatBot_Proje_Final" 
 Projeye ait 3 dakikalık video linki : https://drive.google.com/file/d/1T27OXsg9vmI7DbHRLNYyebK8bkAPU4yp/view?usp=sharing
 ![WhatsApp Image 2025-05-19 at 15 02 11(1)](https://github.com/user-attachments/assets/9f226ff6-97ca-4c54-9598-9d25c0594f83)
+![image](https://github.com/user-attachments/assets/ef3bf0a0-8f5a-4857-a229-981d57fb1029)
 ![image](https://github.com/user-attachments/assets/a94a2515-1779-41c9-9804-c0a2b14717b5)
 ![image](https://github.com/user-attachments/assets/4a934a2c-736e-4b64-b518-a1299ebd1d84)
 ![image](https://github.com/user-attachments/assets/5fec48ac-3939-4208-962a-0a07c9e515b3)
